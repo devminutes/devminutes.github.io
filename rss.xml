@@ -38,8 +38,8 @@
             	jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce 
             	do node.js. Za poskytnutí prostor děkujeme Borkovi Bernardovi a Agilio.cz
             </itunes:summary>
-            <enclosure url="https://jungleserver60.jungledisk.com/getshare?key=CAFXCA597EDE4253&amp;filename=devminutes.001.miroslav.bajtos.mp3" length="64091070" type="audio/mpeg"/>
-            <guid>https://jungleserver60.jungledisk.com/getshare?key=CAFXCA597EDE4253&amp;filename=devminutes.001.miroslav.bajtos.mp3</guid>
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.001.miroslav.bajtos.mp3" length="64091070" type="audio/mpeg"/>
+            <guid>https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.001.miroslav.bajtos.mp3</guid>
             <pubDate>Mon, 01 Jul 2013 12:00:00 GMT</pubDate>
             <itunes:duration>44:23</itunes:duration>
             <itunes:keywords>dev, nodejs, StrongLoop, Miroslav Bajtos</itunes:keywords>
