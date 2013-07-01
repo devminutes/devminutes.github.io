@@ -43,6 +43,7 @@
             <pubDate>Mon, 01 Jul 2013 12:00:00 GMT</pubDate>
             <itunes:duration>44:23</itunes:duration>
             <itunes:keywords>dev, nodejs, StrongLoop, Miroslav Bajtos</itunes:keywords>
+            <link>http://www.devminutes.cz#1/</link>
         </item>
     </channel>
 </rss>
