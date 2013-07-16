@@ -6,6 +6,12 @@
     <link href="content/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" />
     <link href="content/bootstrap/css/bootstrap.css" rel="stylesheet" />
     <link href="content/design.css" rel="stylesheet" />
+    <script src="content/audiojs/audio.min.js"></script>
+    <script>
+      audiojs.events.ready(function() {
+        var as = audiojs.createAll();
+      });
+    </script>
 </head>
 <body>
         <div class="container">
@@ -37,6 +43,7 @@
                             <li><a href="http://strongloop.com/">StrongLoop</a></li>
                             <li><a href="http://nodejs.org/">node.js</a></li>
                         </ul>
+                        <audio src="https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.001.miroslav.bajtos.mp3" preload="auto" />
                     </div>
                     <div class="span2">
                         <b>Download</b><br />
