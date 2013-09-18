@@ -32,11 +32,11 @@
                 Třetím hostem podcastu je Marian Schubert. Mariana můžete znát mimo jiné například jako jednoho z hlavních organizátorů Global Day of CodeRetreat nebo jako protagonistu best practices při vývoji software. Právě best practices jsou hlavním tématem třetího dílu.
                 Zklouzli jsme k párovému programování, test driven development, coding dojo a k dalším technikám, které bez pochyby patří do kategorie extremního programování.
                 Za poskytnutí prostor pro natáčení třetího dílu děkujeme společnosti Vendavo CZ.
-            </itunes:summary>
-            <enclosure url="XXXX" length="XXXX" type="audio/mpeg"/>
-            <guid>XXXX</guid>
+            </itunes:summary> 
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.003.marian.schubert.mp3" length="102710391" type="audio/mpeg"/>
+            <guid>https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.003.marian.schubert.mp3</guid>
             <pubDate>Wed, 18 Sep 2013 12:00:00 GMT</pubDate>
-            <itunes:duration>48:36</itunes:duration>
+            <itunes:duration>01:08:08</itunes:duration>
             <itunes:keywords>dev, best practices, books, marian schubert, tdd, coderetreat, pair programming</itunes:keywords>
             <link>http://www.devminutes.cz#3/</link>
         </item>
