@@ -4,7 +4,7 @@
         <title>Dev Minutes</title>
         <link>http://www.devminutes.cz/</link>
         <language>cs</language>
-        <copyright>℗ &amp; © 2013 DevMinutes</copyright>
+        <copyright>© 2013 DevMinutes</copyright>
         <itunes:subtitle>Český podcast o nevšedních tématech nejen ze světa IT</itunes:subtitle>
         <itunes:author>Jirka Pénzeš a Michal Těhník</itunes:author>
         <itunes:summary>
@@ -24,6 +24,22 @@
             <itunes:email>devminutes@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:image href="http://devminutes.cz/content/images/devminutes-mini.png"/>
+        <item>
+            <title>##3 Marian Schubert o best practices</title>
+            <itunes:author>Dev Minutes</itunes:author>
+            <itunes:subtitle>Hostem druhého dílu je Filip Hráček z Google. </itunes:subtitle>
+            <itunes:summary>
+                Třetím hostem podcastu je Marian Schubert. Mariana můžete znát mimo jiné například jako jednoho z hlavních organizátorů Global Day of CodeRetreat nebo jako protagonistu best practices při vývoji software. Právě best practices jsou hlavním tématem třetího dílu.
+                Zklouzli jsme k párovému programování, test driven development, coding dojo a k dalším technikám, které bez pochyby patří do kategorie extremního programování.
+                Za poskytnutí prostor pro natáčení třetího dílu děkujeme společnosti Vendavo CZ.
+            </itunes:summary>
+            <enclosure url="XXXX" length="XXXX" type="audio/mpeg"/>
+            <guid>XXXX</guid>
+            <pubDate>Wed, 18 Sep 2013 12:00:00 GMT</pubDate>
+            <itunes:duration>48:36</itunes:duration>
+            <itunes:keywords>dev, best practices, books, marian schubert, tdd, coderetreat, pair programming</itunes:keywords>
+            <link>http://www.devminutes.cz#3/</link>
+        </item>
         <itunes:explicit>no</itunes:explicit>
         <item>
             <title>#2 Filip Hráček o Google, Dartu a Glass</title>
