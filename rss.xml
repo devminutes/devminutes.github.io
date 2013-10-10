@@ -25,6 +25,22 @@
         </itunes:owner>
         <itunes:image href="http://devminutes.cz/content/images/devminutes-mini.png"/>
         <item>
+            <title>#4 Daniel Steigerwald o práci v USA, JavaScriptu a Closure Tools</title>
+            <itunes:author>Dev Minutes</itunes:author>
+            <itunes:subtitle>Hostem čtvrtého dílu je Daniel Steigerwald.</itunes:subtitle>
+            <itunes:summary>
+                 V pořadí čtvrtým hostem je Daniel Steigerwald. Dan je známý zejména ve světě frontend Javascriptu. Rozebrali jsme současnou situaci Javascriptu a mimo jiného jsme si povídali například o Google Clojure Tools, Gruntu, Dartu, Typescriptu a dalších. 
+                 Povídali jsme si také o Danově nedávné cestě do USA. Jaké to tam je, jak je těžké získat práci a jak je to vůbec v dnešní době s prací na dálku pro Americkou firmu. 
+                 Za poskytnutí prostor pro natáčení čtvrtého dílu opět děkujeme společnosti Vendavo CZ. 
+            </itunes:summary> 
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.004.daniel.steigerwald.mp3" length="52579656" type="audio/mpeg"/>
+            <guid>https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.004.daniel.steigerwald.mp3</guid>
+            <pubDate>Wed, 10 Oct 2013 12:00:00 GMT</pubDate>
+            <itunes:duration>01:13:01</itunes:duration>
+            <itunes:keywords>dev, javascript, steida, esta, dart, work, travel, frameworks, best practices</itunes:keywords>
+            <link>http://www.devminutes.cz#4/</link>
+        </item>
+        <item>
             <title>#3 Marian Schubert o best practices</title>
             <itunes:author>Dev Minutes</itunes:author>
             <itunes:subtitle>Hostem druhého dílu je Filip Hráček z Google. </itunes:subtitle>
@@ -32,7 +48,7 @@
                 Třetím hostem podcastu je Marian Schubert. Mariana můžete znát mimo jiné například jako jednoho z hlavních organizátorů Global Day of CodeRetreat nebo jako protagonistu best practices při vývoji software. Právě best practices jsou hlavním tématem třetího dílu.
                 Zklouzli jsme k párovému programování, test driven development, coding dojo a k dalším technikám, které bez pochyby patří do kategorie extremního programování.
                 Za poskytnutí prostor pro natáčení třetího dílu děkujeme společnosti Vendavo CZ.
-            </itunes:summary> 
+            </itunes:summary>  
             <enclosure url="https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.003.marian.schubert.mp3" length="102710391" type="audio/mpeg"/>
             <guid>https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.003.marian.schubert.mp3</guid>
             <pubDate>Wed, 18 Sep 2013 12:00:00 GMT</pubDate>
