@@ -25,6 +25,21 @@
         </itunes:owner>
         <itunes:image href="http://devminutes.cz/content/images/devminutes-mini.png"/>
         <item>
+            <title>#5 Karel Holub o běhání</title>
+            <itunes:author>Dev Minutes</itunes:author>
+            <itunes:subtitle>Hostem pátého dílu je Karel Holub.</itunes:subtitle>
+            <itunes:summary>
+                 Nejen prací živ je programátor, ale je potřeba se i hýbat. Jelikož nejméně náročným sportem je běh, proto je první volbou spousty lidí. Což byl důvod, že jsme si jako hosta pozvali právě Karla, který běhá a běhá hodně.
+                 Povídali jsme si o tom, jak začal, co ho k tomu vedlo nebo jak trénuje. Rozebrali jsme i to, jak s běháním začít, když jste vyloženě nesportovní typ. Jaké existují druhy tréningu nebo jaká je správná technika běhu. Naťukli jsme i vegetariánskou stravu.
+            </itunes:summary> 
+            <enclosure url="https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.005.karel.holub.mp3" length="53153356" type="audio/mpeg"/>
+            <guid>https://s3-eu-west-1.amazonaws.com/devminutes/devminutes.005.karel.holub.mp3</guid>
+            <pubDate>Thu, 29 Oct 2013 12:00:00 GMT</pubDate>
+            <itunes:duration>01:13:49</itunes:duration>
+            <itunes:keywords>dev, karelholub, behani, behej, run, borntorun, runnig</itunes:keywords>
+            <link>http://www.devminutes.cz#5/</link>
+        </item>
+        <item>
             <title>#4 Daniel Steigerwald o práci v USA, JavaScriptu a Closure Tools</title>
             <itunes:author>Dev Minutes</itunes:author>
             <itunes:subtitle>Hostem čtvrtého dílu je Daniel Steigerwald.</itunes:subtitle>
