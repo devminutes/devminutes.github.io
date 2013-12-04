@@ -25,6 +25,21 @@
         </itunes:owner>
         <itunes:image href="http://devminutes.cz/content/images/devminutes-mini.png"/>
         <item>
+            <title>#6 Petr Dvořák o bezpečnosti mobilních aplikací</title>
+            <itunes:author>Dev Minutes</itunes:author>
+            <itunes:subtitle>Hostem pátého dílu je Karel Holub.</itunes:subtitle>
+            <itunes:summary>
+                 Do šestého dílu přijal pozvání Petr Dvořák ze společnosti Inmite. Společně jsme nakousli téma vývoje mobilních aplikací z pohledu všech aktuálních platforem a jejich zabezpečení. Zabrousili jsme i do bankovnictví, resp. vývoje aplikací pro bankovní sektor a také do projektu QR-Platby.
+                 Petr nám také představil nový hardware Air Bond, na kterém aktuálně společnost Inmite pracuje.
+            </itunes:summary> 
+            <enclosure url="http://feeds.soundcloud.com/stream/122288474-devminutes-6-petr-dvorak.mp3" length="46150235" type="audio/mpeg"/>
+            <guid>http://feeds.soundcloud.com/stream/122288474-devminutes-6-petr-dvorak.mp3</guid>
+            <pubDate>Thu, 28 Nov 2013 12:00:00 GMT</pubDate>
+            <itunes:duration>01:05:50</itunes:duration>
+            <itunes:keywords>petrdvorak, mobile, android, ios, windowsphone, dev, pricing, airbond</itunes:keywords>
+            <link>http://www.devminutes.cz#5/</link>
+        </item>
+        <item>
             <title>#5 Karel Holub o běhání</title>
             <itunes:author>Dev Minutes</itunes:author>
             <itunes:subtitle>Hostem pátého dílu je Karel Holub.</itunes:subtitle>
