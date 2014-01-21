@@ -3,8 +3,8 @@
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:49720730/sounds.rss" rel="self" type="application/rss+xml"/>
     <title>devminutes</title>
     <link>http://devminutes.cz</link>
-    <pubDate>Tue, 17 Dec 2013 11:55:42 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Dec 2013 11:55:42 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jan 2014 07:59:33 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jan 2014 07:59:33 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -12,19 +12,59 @@
     <description>Rozhodli jsme se, že by jsme chtěli zkusit natočit podcast a jelikož povídat o tom co by kdyby, umí každý, tak jsme se do toho vrhli po hlavě.
 
 Náš cíl je pravidelně přinášet nové díly a vždy se zajímavým hostem. Pokud máte zajímavý tip na hosta nebo téma, pak se nám neváhejte ozvat ;)</description>
-    <itunes:subtitle>Rozhodli jsme se, že by …</itunes:subtitle>
+    <itunes:subtitle>Rozhodli jsme se, že by jsme chtěli zkusit natoči…</itunes:subtitle>
     <itunes:owner>
       <itunes:name>devminutes</itunes:name>
       <itunes:email>feeds@soundcloud.com</itunes:email>
     </itunes:owner>
     <itunes:author>devminutes</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?d53bf9f"/>
+    <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
     <image>
-      <url>https://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?d53bf9f</url>
+      <url>http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a</url>
       <title>devminutes</title>
       <link>http://devminutes.cz</link>
     </image>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/130598598</guid>
+      <title>#10 Michal Bachman o grafových databázích, neo4j, studiu a životě v zahraničí</title>
+      <pubDate>Tue, 21 Jan 2014 07:59:33 +0000</pubDate>
+      <link>http://soundcloud.com/devminutes/10-michal-bachman</link>
+      <itunes:duration>01:03:35</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do desátého dílu přijal naše pozvání Michal Bachman, který je přeborníkem v oblasti grafových databází. A právě grafové databáze byli hlavním tématem tohoto dílu. Michal nám popsal možnosti a krásu použití databází. Také použití a kde všude grafové databáze najdou své uplatnění. Byla nám také odtajněna i technickou část a Michal povídal o spousty možnostech, jak se na vývoji grafových databází podílet.  
+
+Dále jsme si povídali o studiu a životě v zahraničí. Jaké tam jsou školy a jak je té s náročností. Jestli to má vůbec smysl a na spousty dalších otázek nám Michal prozradil odpověď. 
+
+Pakliže vás povídaní Michala Bachmana zaujalo a rádi byste nim navázali spolupráci, pak se neváhejte ozvat na jeho email, který naleznete na http://devminutes.cz</itunes:summary>
+      <itunes:subtitle>Do desátého dílu přijal naše pozvání Michal Bachm…</itunes:subtitle>
+      <description>Do desátého dílu přijal naše pozvání Michal Bachman, který je přeborníkem v oblasti grafových databází. A právě grafové databáze byli hlavním tématem tohoto dílu. Michal nám popsal možnosti a krásu použití databází. Také použití a kde všude grafové databáze najdou své uplatnění. Byla nám také odtajněna i technickou část a Michal povídal o spousty možnostech, jak se na vývoji grafových databází podílet.  
+
+Dále jsme si povídali o studiu a životě v zahraničí. Jaké tam jsou školy a jak je té s náročností. Jestli to má vůbec smysl a na spousty dalších otázek nám Michal prozradil odpověď. 
+
+Pakliže vás povídaní Michala Bachmana zaujalo a rádi byste nim navázali spolupráci, pak se neváhejte ozvat na jeho email, který naleznete na http://devminutes.cz</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/130598598-devminutes-10-michal-bachman.mp3" length="45712209"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/128134162</guid>
+      <title>#9 Antonín Hildebrand o vývoji pro Mac, Digitálním nomádství a BitCoinech</title>
+      <pubDate>Mon, 06 Jan 2014 09:22:29 +0000</pubDate>
+      <link>http://soundcloud.com/devminutes/9-antonin-hildebrand</link>
+      <itunes:duration>01:01:23</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Posledním hostem v roce 2013 byl Antonín Hildebrand. S Antonínem jsme nakousli téma vývoje pro Mac. Jaké je to tvořit aplikace, která si hodně sahá na jádro systému a jak vlastně trh aplikací v AppStoru dnes funguje. Druhým nosným tématem bylo digitální nomádství. Antonín nám vysvětlil, jak to vlastně celé funguje a kdy se vyplatí stát se digitálním nomádem. 
+
+Hlavním tématem tohoto podcastu byla ale digitální měna BitCoin. Rozebrali jsme její architekturu, myšlenku, smysl a mnoho dalšího.</itunes:summary>
+      <itunes:subtitle>Posledním hostem v roce 2013 byl Antonín Hildebra…</itunes:subtitle>
+      <description>Posledním hostem v roce 2013 byl Antonín Hildebrand. S Antonínem jsme nakousli téma vývoje pro Mac. Jaké je to tvořit aplikace, která si hodně sahá na jádro systému a jak vlastně trh aplikací v AppStoru dnes funguje. Druhým nosným tématem bylo digitální nomádství. Antonín nám vysvětlil, jak to vlastně celé funguje a kdy se vyplatí stát se digitálním nomádem. 
+
+Hlavním tématem tohoto podcastu byla ale digitální měna BitCoin. Rozebrali jsme její architekturu, myšlenku, smysl a mnoho dalšího.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/128134162-devminutes-9-antonin-hildebrand.mp3" length="44138664"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/125248716</guid>
       <title>#8 Petr Šimeček o BigData a Cloudových službách</title>
@@ -34,10 +74,10 @@ Náš cíl je pravidelně přinášet nové díly a vždy se zajímavým hostem.
       <itunes:author>devminutes</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Do osmého dílu přijal naše pozvání Petr Šimeček ze společnosti Keboola. S Petrem jsme rozebrali co vlastně dělá Keebola a jakou má spojistost s GoodData. Povídali jsme si o tom, co vše lze získat z velkého množství dat a jak lze tyto data zabezpečit. Podívali jsme se i na různé cloudové služby a jejich použití v praxi.</itunes:summary>
-      <itunes:subtitle>Do osmého dílu přijal na…</itunes:subtitle>
+      <itunes:subtitle>Do osmého dílu přijal naše pozvání Petr Šimeček z…</itunes:subtitle>
       <description>Do osmého dílu přijal naše pozvání Petr Šimeček ze společnosti Keboola. S Petrem jsme rozebrali co vlastně dělá Keebola a jakou má spojistost s GoodData. Povídali jsme si o tom, co vše lze získat z velkého množství dat a jak lze tyto data zabezpečit. Podívali jsme se i na různé cloudové služby a jejich použití v praxi.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/125248716-devminutes-8-petr-simecek.mp3" length="51045333"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?d53bf9f"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/123016269</guid>
@@ -50,12 +90,12 @@ Náš cíl je pravidelně přinášet nové díly a vždy se zajímavým hostem.
       <itunes:summary>Sedmý díl jsme pojali trošku neobvykle. V roce 2013 se odehrálo mnoho IT konrencí a různých setkáních. Na mnoha z nich jsme byli a v tomto díle jsme se pokusili některé vybrané rozebrat a blíže přiblížit. Můžete tak získat zajímavé tipy, na co se vyplatí chodit.
 
 V závěru jsme malinko více rozebrali konferenci DevFest 2013 - a to z pohledu návštěvníka a také z pohledu organizátora.</itunes:summary>
-      <itunes:subtitle>Sedmý díl jsme pojali tr…</itunes:subtitle>
+      <itunes:subtitle>Sedmý díl jsme pojali trošku neobvykle. V roce 20…</itunes:subtitle>
       <description>Sedmý díl jsme pojali trošku neobvykle. V roce 2013 se odehrálo mnoho IT konrencí a různých setkáních. Na mnoha z nich jsme byli a v tomto díle jsme se pokusili některé vybrané rozebrat a blíže přiblížit. Můžete tak získat zajímavé tipy, na co se vyplatí chodit.
 
 V závěru jsme malinko více rozebrali konferenci DevFest 2013 - a to z pohledu návštěvníka a také z pohledu organizátora.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/123016269-devminutes-7-special-konference.mp3" length="50714737"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?d53bf9f"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/122288474</guid>
@@ -67,11 +107,11 @@ V závěru jsme malinko více rozebrali konferenci DevFest 2013 - a to z pohledu
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Do šestého dílu přijal pozvání Petr Dvořák ze společnosti Inmite. Společně jsme nakousli téma vývoje mobilních aplikací z pohledu všech aktuálních platforem a jejich zabezpečení.  Zabrousili jsme i do bankovnictví, resp. vývoje aplikací pro bankovní sektor a také do projektu QR-Platby. 
 Petr nám také představil nový hardware Air Bond, na kterém aktuálně společnost Inmite pracuje.</itunes:summary>
-      <itunes:subtitle>Do šestého dílu přijal p…</itunes:subtitle>
+      <itunes:subtitle>Do šestého dílu přijal pozvání Petr Dvořák ze spo…</itunes:subtitle>
       <description>Do šestého dílu přijal pozvání Petr Dvořák ze společnosti Inmite. Společně jsme nakousli téma vývoje mobilních aplikací z pohledu všech aktuálních platforem a jejich zabezpečení.  Zabrousili jsme i do bankovnictví, resp. vývoje aplikací pro bankovní sektor a také do projektu QR-Platby. 
 Petr nám také představil nový hardware Air Bond, na kterém aktuálně společnost Inmite pracuje.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/122288474-devminutes-6-petr-dvorak.mp3" length="46150235"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?d53bf9f"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/117597424</guid>
@@ -84,12 +124,12 @@ Petr nám také představil nový hardware Air Bond, na kterém aktuálně spole
       <itunes:summary>Nejen prací živ je programátor, ale je potřeba se i hýbat. Jelikož nejméně náročným sportem je běh, proto je první volbou spousty lidí. Což byl důvod, že jsme si jako hosta pozvali právě Karla, který běhá a běhá hodně.
 
 Povídali jsme si o tom, jak začal, co ho k tomu vedlo nebo jak trénuje. Rozebrali jsme i to, jak s běháním začít, když jste vyloženě nesportovní typ. Jaké existují druhy tréningu nebo jaká je správná technika běhu. Naťukli jsme i vegetariánskou stravu.</itunes:summary>
-      <itunes:subtitle>Nejen prací živ je progr…</itunes:subtitle>
+      <itunes:subtitle>Nejen prací živ je programátor, ale je potřeba se…</itunes:subtitle>
       <description>Nejen prací živ je programátor, ale je potřeba se i hýbat. Jelikož nejméně náročným sportem je běh, proto je první volbou spousty lidí. Což byl důvod, že jsme si jako hosta pozvali právě Karla, který běhá a běhá hodně.
 
 Povídali jsme si o tom, jak začal, co ho k tomu vedlo nebo jak trénuje. Rozebrali jsme i to, jak s běháním začít, když jste vyloženě nesportovní typ. Jaké existují druhy tréningu nebo jaká je správná technika běhu. Naťukli jsme i vegetariánskou stravu.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117597424-devminutes-5-karel-holub.mp3" length="53153356"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?d53bf9f"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/117044371</guid>
@@ -102,12 +142,12 @@ Povídali jsme si o tom, jak začal, co ho k tomu vedlo nebo jak trénuje. Rozeb
       <itunes:summary>V pořadí čtvrtým hostem je Daniel Steigerwald. Dan je známý zejména ve světě frontend Javascriptu. Rozebrali jsme současnou situaci Javascriptu a mimo jiného jsme si povídali například o Google Clojure Tools, Gruntu, Dartu, Typescriptu a dalších.
 
 Povídali jsme si také o Danově nedávné cestě do USA. Jaké to tam je, jak je těžké získat práci a jak je to vůbec v dnešní době s prací na dálku pro Americkou firmu.</itunes:summary>
-      <itunes:subtitle>V pořadí čtvrtým hostem …</itunes:subtitle>
+      <itunes:subtitle>V pořadí čtvrtým hostem je Daniel Steigerwald. Da…</itunes:subtitle>
       <description>V pořadí čtvrtým hostem je Daniel Steigerwald. Dan je známý zejména ve světě frontend Javascriptu. Rozebrali jsme současnou situaci Javascriptu a mimo jiného jsme si povídali například o Google Clojure Tools, Gruntu, Dartu, Typescriptu a dalších.
 
 Povídali jsme si také o Danově nedávné cestě do USA. Jaké to tam je, jak je těžké získat práci a jak je to vůbec v dnešní době s prací na dálku pro Americkou firmu.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117044371-devminutes-4-daniel-steigerwald.mp3" length="52579656"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?d53bf9f"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/117042591</guid>
@@ -120,12 +160,12 @@ Povídali jsme si také o Danově nedávné cestě do USA. Jaké to tam je, jak 
       <itunes:summary>Třetím hostem podcastu je Marian Schubert. Mariana můžete znát mimo jiné například jako jednoho z hlavních organizátorů Global Day of CodeRetreat nebo jako protagonistu best practices při vývoji software. Právě best practices jsou hlavním tématem třetího dílu.
 
 Zklouzli jsme k párovému programování, test driven development, coding dojo a k dalším technikám, které bez pochyby patří do kategorie extremního programování.</itunes:summary>
-      <itunes:subtitle>Třetím hostem podcastu j…</itunes:subtitle>
+      <itunes:subtitle>Třetím hostem podcastu je Marian Schubert. Marian…</itunes:subtitle>
       <description>Třetím hostem podcastu je Marian Schubert. Mariana můžete znát mimo jiné například jako jednoho z hlavních organizátorů Global Day of CodeRetreat nebo jako protagonistu best practices při vývoji software. Právě best practices jsou hlavním tématem třetího dílu.
 
 Zklouzli jsme k párovému programování, test driven development, coding dojo a k dalším technikám, které bez pochyby patří do kategorie extremního programování.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117042591-devminutes-3-marian-schubert.mp3" length="102710391"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?d53bf9f"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/117038931</guid>
@@ -138,12 +178,12 @@ Zklouzli jsme k párovému programování, test driven development, coding dojo 
       <itunes:summary>Hostem druhého dílu byl Filip Hráček, který pracuje ve společnosti Google jako Developer Relations Manager. Filipa můžete znát z GUG.cz akcí, kterých se účastní nebo i pomáhá s organizací.
 
 Filipa jsme vyzpovídali o práci v Google, jak se k tomu dostal a co vlastně přesně každý den dělá. Povídali jsme si i o potenciálu a budoucnosti jazyka Dart nebo o Google Glass.</itunes:summary>
-      <itunes:subtitle>Hostem druhého dílu byl …</itunes:subtitle>
+      <itunes:subtitle>Hostem druhého dílu byl Filip Hráček, který pracu…</itunes:subtitle>
       <description>Hostem druhého dílu byl Filip Hráček, který pracuje ve společnosti Google jako Developer Relations Manager. Filipa můžete znát z GUG.cz akcí, kterých se účastní nebo i pomáhá s organizací.
 
 Filipa jsme vyzpovídali o práci v Google, jak se k tomu dostal a co vlastně přesně každý den dělá. Povídali jsme si i o potenciálu a budoucnosti jazyka Dart nebo o Google Glass.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117038931-devminutes-2-filip-hracek.mp3" length="70009578"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?d53bf9f"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/117006007</guid>
@@ -156,12 +196,12 @@ Filipa jsme vyzpovídali o práci v Google, jak se k tomu dostal a co vlastně p
       <itunes:summary>Jako hosta prvního dílu jsme si pozvali Miroslava Bajtoše, který pracuje pro společnost StrongLoop jako programátor C/C++ a JavaScriptu. Můžete ho znát například z Hradeckých a Pardubických NerdDinner nebo jako facilitátora z českých Coderetreatů.
 
 Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.</itunes:summary>
-      <itunes:subtitle>Jako hosta prvního dílu …</itunes:subtitle>
+      <itunes:subtitle>Jako hosta prvního dílu jsme si pozvali Miroslava…</itunes:subtitle>
       <description>Jako hosta prvního dílu jsme si pozvali Miroslava Bajtoše, který pracuje pro společnost StrongLoop jako programátor C/C++ a JavaScriptu. Můžete ho znát například z Hradeckých a Pardubických NerdDinner nebo jako facilitátora z českých Coderetreatů.
 
 Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3" length="63931758"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?d53bf9f"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?f9a018a"/>
     </item>
   </channel>
 </rss>
