@@ -25,6 +25,15 @@ h1 {
     font-size: 28pt;
 }
 
+h2 a {
+    color:#333333;
+}
+
+h3 a {
+    color:#333333;
+}
+
+
 .content-podcasts {
     padding: 0px;
     margin-top: 20px;
