@@ -3,8 +3,8 @@
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:49720730/sounds.rss" rel="self" type="application/rss+xml"/>
     <title>devminutes</title>
     <link>http://devminutes.cz</link>
-    <pubDate>Mon, 14 Apr 2014 12:35:21 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Apr 2014 12:35:21 +0000</lastBuildDate>
+    <pubDate>Mon, 12 May 2014 09:07:01 +0000</pubDate>
+    <lastBuildDate>Mon, 12 May 2014 09:07:01 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -19,12 +19,34 @@ Náš cíl je pravidelně přinášet nové díly a vždy se zajímavým hostem.
     </itunes:owner>
     <itunes:author>devminutes</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+    <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     <image>
-      <url>http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69</url>
+      <url>http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558</url>
       <title>devminutes</title>
       <link>http://devminutes.cz</link>
     </image>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/149120783</guid>
+      <title>#14 Michal Špaček o PHP a bezpečnosti na internetu</title>
+      <pubDate>Mon, 12 May 2014 09:07:01 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/14-michal-spacek</link>
+      <itunes:duration>01:14:36</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do čtrnáctého dílu si s námi přišel popovídat Michal Špaček. Prvním tématem byla platforma PHP. Michal nám řekl jaký je aktuální stav ve světě PHP a jak žije kominuta. Mimo jiné jsme rozebírali možnosti PHP ve vetších aplikacích nebo přínosy webových Frameworků. Po PHP přišel na řadu jazyk HACK, který nedávno představila firma Facebook jako náhradu právě za PHP. Michal nás zasvětil do toho, jaké jsou hlavní rozdíly a jak vlastně celý životní cyklus okolo HACK funguje a jestli má ten jazyk vůbec smysl používat. 
+
+V druhé části jsme nakousli téma webové bezpečnosti. Nejčastější typy útoků a jak se proti nim můžeme bránit. Nějaké základní best practice okolo tvorby a uchovávání hesel. Podívali jsme se i na problém heartbleed, který byl nedávno odhalen. 
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme Node5.</itunes:summary>
+      <itunes:subtitle>Do čtrnáctého dílu si s námi přišel popovídat Mic…</itunes:subtitle>
+      <description>Do čtrnáctého dílu si s námi přišel popovídat Michal Špaček. Prvním tématem byla platforma PHP. Michal nám řekl jaký je aktuální stav ve světě PHP a jak žije kominuta. Mimo jiné jsme rozebírali možnosti PHP ve vetších aplikacích nebo přínosy webových Frameworků. Po PHP přišel na řadu jazyk HACK, který nedávno představila firma Facebook jako náhradu právě za PHP. Michal nás zasvětil do toho, jaké jsou hlavní rozdíly a jak vlastně celý životní cyklus okolo HACK funguje a jestli má ten jazyk vůbec smysl používat. 
+
+V druhé části jsme nakousli téma webové bezpečnosti. Nejčastější typy útoků a jak se proti nim můžeme bránit. Nějaké základní best practice okolo tvorby a uchovávání hesel. Podívali jsme se i na problém heartbleed, který byl nedávno odhalen. 
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme Node5.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/149120783-devminutes-14-michal-spacek.mp3" length="53640443"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/144639820</guid>
       <title>#13 Štěpán Bechynský o 3D tisku, mikrokontrolérech a vaření</title>
@@ -45,7 +67,7 @@ Od 3D tisku jsme dostali i k jednočípům a obecně programování hardwarovýc
 
 Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/144639820-devminutes-13-stepan-bechynsky.mp3" length="43936528"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/143666129</guid>
@@ -67,7 +89,7 @@ Tomáš nám také povyprávěl, jaká byla konference Mobile World Congress a c
 
 Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ. </description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/143666129-devminutes-12-tomas-slavicek.mp3" length="34485774"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/136455211</guid>
@@ -89,7 +111,7 @@ Také jsme lehce otevřeli téma stáže v Google. Například se dozvíte jak p
 
 Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/136455211-devminutes-11-david-vavra.mp3" length="43239075"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/130598598</guid>
@@ -111,7 +133,7 @@ Dále jsme si povídali o studiu a životě v zahraničí. Jaké tam jsou školy
 
 Pakliže vás povídaní Michala Bachmana zaujalo a rádi byste nim navázali spolupráci, pak se neváhejte ozvat na jeho email, který naleznete na http://devminutes.cz</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/130598598-devminutes-10-michal-bachman.mp3" length="45712209"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/128134162</guid>
@@ -129,7 +151,7 @@ Hlavním tématem tohoto podcastu byla ale digitální měna BitCoin. Rozebrali 
 
 Hlavním tématem tohoto podcastu byla ale digitální měna BitCoin. Rozebrali jsme její architekturu, myšlenku, smysl a mnoho dalšího.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/128134162-devminutes-9-antonin-hildebrand.mp3" length="44138664"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/125248716</guid>
@@ -143,7 +165,7 @@ Hlavním tématem tohoto podcastu byla ale digitální měna BitCoin. Rozebrali 
       <itunes:subtitle>Do osmého dílu přijal naše pozvání Petr Šimeček z…</itunes:subtitle>
       <description>Do osmého dílu přijal naše pozvání Petr Šimeček ze společnosti Keboola. S Petrem jsme rozebrali co vlastně dělá Keebola a jakou má spojistost s GoodData. Povídali jsme si o tom, co vše lze získat z velkého množství dat a jak lze tyto data zabezpečit. Podívali jsme se i na různé cloudové služby a jejich použití v praxi.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/125248716-devminutes-8-petr-simecek.mp3" length="51045333"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/123016269</guid>
@@ -161,7 +183,7 @@ V závěru jsme malinko více rozebrali konferenci DevFest 2013 - a to z pohledu
 
 V závěru jsme malinko více rozebrali konferenci DevFest 2013 - a to z pohledu návštěvníka a také z pohledu organizátora.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/123016269-devminutes-7-special-konference.mp3" length="50714737"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/122288474</guid>
@@ -177,7 +199,7 @@ Petr nám také představil nový hardware Air Bond, na kterém aktuálně spole
       <description>Do šestého dílu přijal pozvání Petr Dvořák ze společnosti Inmite. Společně jsme nakousli téma vývoje mobilních aplikací z pohledu všech aktuálních platforem a jejich zabezpečení.  Zabrousili jsme i do bankovnictví, resp. vývoje aplikací pro bankovní sektor a také do projektu QR-Platby. 
 Petr nám také představil nový hardware Air Bond, na kterém aktuálně společnost Inmite pracuje.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/122288474-devminutes-6-petr-dvorak.mp3" length="46150235"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/117597424</guid>
@@ -195,7 +217,7 @@ Povídali jsme si o tom, jak začal, co ho k tomu vedlo nebo jak trénuje. Rozeb
 
 Povídali jsme si o tom, jak začal, co ho k tomu vedlo nebo jak trénuje. Rozebrali jsme i to, jak s běháním začít, když jste vyloženě nesportovní typ. Jaké existují druhy tréningu nebo jaká je správná technika běhu. Naťukli jsme i vegetariánskou stravu.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117597424-devminutes-5-karel-holub.mp3" length="53153356"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/117044371</guid>
@@ -213,7 +235,7 @@ Povídali jsme si také o Danově nedávné cestě do USA. Jaké to tam je, jak 
 
 Povídali jsme si také o Danově nedávné cestě do USA. Jaké to tam je, jak je těžké získat práci a jak je to vůbec v dnešní době s prací na dálku pro Americkou firmu.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117044371-devminutes-4-daniel-steigerwald.mp3" length="52579656"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/117042591</guid>
@@ -231,7 +253,7 @@ Zklouzli jsme k párovému programování, test driven development, coding dojo 
 
 Zklouzli jsme k párovému programování, test driven development, coding dojo a k dalším technikám, které bez pochyby patří do kategorie extremního programování.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117042591-devminutes-3-marian-schubert.mp3" length="102710391"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/117038931</guid>
@@ -249,7 +271,7 @@ Filipa jsme vyzpovídali o práci v Google, jak se k tomu dostal a co vlastně p
 
 Filipa jsme vyzpovídali o práci v Google, jak se k tomu dostal a co vlastně přesně každý den dělá. Povídali jsme si i o potenciálu a budoucnosti jazyka Dart nebo o Google Glass.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117038931-devminutes-2-filip-hracek.mp3" length="70009578"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/117006007</guid>
@@ -267,7 +289,7 @@ Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku,
 
 Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3" length="63931758"/>
-      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?77d7a69"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
     </item>
   </channel>
 </rss>
