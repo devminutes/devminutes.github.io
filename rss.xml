@@ -3,8 +3,8 @@
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:49720730/sounds.rss" rel="self" type="application/rss+xml"/>
     <title>devminutes</title>
     <link>http://devminutes.cz</link>
-    <pubDate>Mon, 12 May 2014 09:07:01 +0000</pubDate>
-    <lastBuildDate>Mon, 12 May 2014 09:07:01 +0000</lastBuildDate>
+    <pubDate>Wed, 28 May 2014 10:37:32 +0000</pubDate>
+    <lastBuildDate>Wed, 28 May 2014 10:37:32 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -25,6 +25,28 @@ Náš cíl je pravidelně přinášet nové díly a vždy se zajímavým hostem.
       <title>devminutes</title>
       <link>http://devminutes.cz</link>
     </image>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/151649218</guid>
+      <title>#15 Vojta Jína o práci v Google a AngularJS</title>
+      <pubDate>Wed, 28 May 2014 10:37:32 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/15-vojta-jina</link>
+      <itunes:duration>00:56:10</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Patnactým hostem se stal Vojta Jína. Vojta se rozpovídal o svých zkušenost s prací v zahraničí a zejména nastínil svou cestu do Google. Prozradil nám jakým způsobem se tam dostal on a jak se tam může zkusit dostat kdokoliv. Jak se připravit na příjimací pohovory nebo jak fungují jednotlivá přijímací kola. 
+
+Vojta v Googlu, společně s dalšími, pracuje na Anglular.js. Proto jsme tomuto frameworku věnovali velkou část tohoto dílu. Dozvíte se proč je dobré Angular používat, jak si stojí proti konkurenci nebo jeho silné stránky. Mimo samotného Angularu jsme si povídali i o samotném vývoji Angularu - dozvíte se například jak funguje takový tým v Google.. 
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme Vendavo CZ.</itunes:summary>
+      <itunes:subtitle>Patnactým hostem se stal Vojta Jína. Vojta se roz…</itunes:subtitle>
+      <description>Patnactým hostem se stal Vojta Jína. Vojta se rozpovídal o svých zkušenost s prací v zahraničí a zejména nastínil svou cestu do Google. Prozradil nám jakým způsobem se tam dostal on a jak se tam může zkusit dostat kdokoliv. Jak se připravit na příjimací pohovory nebo jak fungují jednotlivá přijímací kola. 
+
+Vojta v Googlu, společně s dalšími, pracuje na Anglular.js. Proto jsme tomuto frameworku věnovali velkou část tohoto dílu. Dozvíte se proč je dobré Angular používat, jak si stojí proti konkurenci nebo jeho silné stránky. Mimo samotného Angularu jsme si povídali i o samotném vývoji Angularu - dozvíte se například jak funguje takový tým v Google.. 
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme Vendavo CZ.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/151649218-devminutes-15-vojta-jina.mp3" length="40384202"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/149120783</guid>
       <title>#14 Michal Špaček o PHP a bezpečnosti na internetu</title>
