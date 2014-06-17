@@ -3,8 +3,8 @@
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:49720730/sounds.rss" rel="self" type="application/rss+xml"/>
     <title>devminutes</title>
     <link>http://devminutes.cz</link>
-    <pubDate>Wed, 28 May 2014 10:37:32 +0000</pubDate>
-    <lastBuildDate>Wed, 28 May 2014 10:37:32 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2014 09:40:41 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2014 09:40:41 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -25,6 +25,30 @@ Náš cíl je pravidelně přinášet nové díly a vždy se zajímavým hostem.
       <title>devminutes</title>
       <link>http://devminutes.cz</link>
     </image>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/154738021</guid>
+      <title>#16 Marcel Hlopko o virtuálním stroji a optimalizaci kódu</title>
+      <pubDate>Tue, 17 Jun 2014 09:40:41 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/16-marcel-hlopko</link>
+      <itunes:duration>00:56:02</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Marcel Hlopko o virtuálním stroji a optimalizaci kódu
+Naším dalším hostem se stal Marcel Hlopko, který působí jako doktorand na Fakultě Informačních technologiíí ČVUT, kde se zabývá jazykovou interoperabilitou. To nás zavedlo do tajů Java Virtual Machine, jak funguje heap, garbage collector nebo k optimalizaci kódu. Marcel nám mimo jiné představil i práci, na které aktuálně pracuje v rámci PhD studia - virtuální stroj. 
+
+Jak už to tak bývá - i tentokrát jsem se nevěnovali pouze dev tématům. Marcel velmi rád jezdí na kajaku. Nás to velmi zaujalo a proto jsme Marcela vyzpovídali a zjistili, jak a kde můžeme začít svou první jízdu nebo kde hledat nejlepší řeky pro kajak.
+
+Za prostory děkujeme společnosti Vendavo CZ (Praha).</itunes:summary>
+      <itunes:subtitle>Marcel Hlopko o virtuálním stroji a optimalizaci …</itunes:subtitle>
+      <description>Marcel Hlopko o virtuálním stroji a optimalizaci kódu
+Naším dalším hostem se stal Marcel Hlopko, který působí jako doktorand na Fakultě Informačních technologiíí ČVUT, kde se zabývá jazykovou interoperabilitou. To nás zavedlo do tajů Java Virtual Machine, jak funguje heap, garbage collector nebo k optimalizaci kódu. Marcel nám mimo jiné představil i práci, na které aktuálně pracuje v rámci PhD studia - virtuální stroj. 
+
+Jak už to tak bývá - i tentokrát jsem se nevěnovali pouze dev tématům. Marcel velmi rád jezdí na kajaku. Nás to velmi zaujalo a proto jsme Marcela vyzpovídali a zjistili, jak a kde můžeme začít svou první jízdu nebo kde hledat nejlepší řeky pro kajak.
+
+Za prostory děkujeme společnosti Vendavo CZ (Praha).</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/154738021-devminutes-16-marcel-hlopko.mp3" length="40288131"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?30a2558"/>
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/151649218</guid>
       <title>#15 Vojta Jína o práci v Google a AngularJS</title>
