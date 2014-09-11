@@ -3,8 +3,8 @@
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:49720730/sounds.rss" rel="self" type="application/rss+xml"/>
     <title>devminutes</title>
     <link>http://devminutes.cz</link>
-    <pubDate>Wed, 03 Sep 2014 08:59:57 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Sep 2014 08:59:57 +0000</lastBuildDate>
+    <pubDate>Thu, 11 Sep 2014 08:37:36 +0000</pubDate>
+    <lastBuildDate>Thu, 11 Sep 2014 08:37:36 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -26,6 +26,28 @@ Náš cíl je pravidelně přinášet nové díly a vždy se zajímavým hostem.
       <link>http://devminutes.cz</link>
     </image>
     <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/167215566</guid>
+      <title>#18 Pavel Kacerle o VFX ve filmu a práci pro filmová studia</title>
+      <pubDate>Thu, 11 Sep 2014 08:37:36 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/18-pavel-kacerle</link>
+      <itunes:duration>00:57:32</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Osmnáctka byla lehce netradiční. Pozvání přijal Pavel Kacerle a uvedl nás do světa práce na hollywoodských filmech. Pavel se zabývá tvorbou speciálních efektů a podílel se i na tvorbě velkých hollywoodských trháků jakými jsou například Iron Man 3 nebo Thor: Temný svět. Podívali jsme se na jeho běžný pracovní den a rozebrali jsme nástroje, které filmaři, pro tvorbu efektů používají. Jak vypadá spolupráce na úrovni týmu a studií a obecně celý proces, který vede k úspěšnému dokončení filmové scény, kterou pak vidíme v kině.
+
+Část epizody se věnuje i samotné cestě, která Pavla přivedla do světa filmu. Pokud vás práce u filmu láká a rádi byste toto odvětví také zkusili, pak určitě oceníte i část, kde Pavel rozebírá průběh přijímacích pohovorů a obecně lehce nakousne pozadí této zajímavé branže.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</itunes:summary>
+      <itunes:subtitle>Osmnáctka byla lehce netradiční. Pozvání přijal P…</itunes:subtitle>
+      <description>Osmnáctka byla lehce netradiční. Pozvání přijal Pavel Kacerle a uvedl nás do světa práce na hollywoodských filmech. Pavel se zabývá tvorbou speciálních efektů a podílel se i na tvorbě velkých hollywoodských trháků jakými jsou například Iron Man 3 nebo Thor: Temný svět. Podívali jsme se na jeho běžný pracovní den a rozebrali jsme nástroje, které filmaři, pro tvorbu efektů používají. Jak vypadá spolupráce na úrovni týmu a studií a obecně celý proces, který vede k úspěšnému dokončení filmové scény, kterou pak vidíme v kině.
+
+Část epizody se věnuje i samotné cestě, která Pavla přivedla do světa filmu. Pokud vás práce u filmu láká a rádi byste toto odvětví také zkusili, pak určitě oceníte i část, kde Pavel rozebírá průběh přijímacích pohovorů a obecně lehce nakousne pozadí této zajímavé branže.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/167215566-devminutes-18-pavel-kacerle.mp3" length="41362975"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?e76cf77"/>
+    </item>
+    <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/166019779</guid>
       <title>#17 David Pavlík o práci v Netflixu, SpaceX a dalších</title>
       <pubDate>Wed, 03 Sep 2014 08:59:57 +0000</pubDate>
@@ -35,15 +57,11 @@ Náš cíl je pravidelně přinášet nové díly a vždy se zajímavým hostem.
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Po krátké letní přestávce přinášíme 17. epizodu. David Pavlik má za sebou velice zajímavou životní cestu, o které si s námi povidal. Přes půsovení ve firmě Microsoft, Amazon a Netflix jsme se dostali až k firmě SpaceX. Podívali jsme se na rozdíly, které mezi jednotlivými společnostmi panují. Jaké výhody a nevýhody přináší práce pro velké známe firmy. Jak se vnitřně organizují, kooperace týmů, porovnali jsme firemní kultury a zjištovali jsme, jak je možné se tam dostat. 
 
-Dalším tématem byla firma SpaceX, která posílá "rakety" do vesmíru. Jak funguje firma, která dodává pro NASA a jejiž "release" by měl být bez chybný? David nám prozradil, jak se takový vesmírný hardware/software dělá a jaká má spefika, oproti klasickému vývoji kdekoliv jinde. 
-
-Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</itunes:summary>
+Dalším tématem byla firma SpaceX, která posílá "rakety" do vesmíru. Jak funguje firma, která dodává pro NASA a jejiž "release" by měl být bez chybný? David nám prozradil, jak se takový vesmírný hardware/software dělá a jaká má spefika, oproti klasickému vývoji kdekoliv jinde. </itunes:summary>
       <itunes:subtitle>Po krátké letní přestávce přinášíme 17. epizodu. …</itunes:subtitle>
       <description>Po krátké letní přestávce přinášíme 17. epizodu. David Pavlik má za sebou velice zajímavou životní cestu, o které si s námi povidal. Přes půsovení ve firmě Microsoft, Amazon a Netflix jsme se dostali až k firmě SpaceX. Podívali jsme se na rozdíly, které mezi jednotlivými společnostmi panují. Jaké výhody a nevýhody přináší práce pro velké známe firmy. Jak se vnitřně organizují, kooperace týmů, porovnali jsme firemní kultury a zjištovali jsme, jak je možné se tam dostat. 
 
-Dalším tématem byla firma SpaceX, která posílá "rakety" do vesmíru. Jak funguje firma, která dodává pro NASA a jejiž "release" by měl být bez chybný? David nám prozradil, jak se takový vesmírný hardware/software dělá a jaká má spefika, oproti klasickému vývoji kdekoliv jinde. 
-
-Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</description>
+Dalším tématem byla firma SpaceX, která posílá "rakety" do vesmíru. Jak funguje firma, která dodává pro NASA a jejiž "release" by měl být bez chybný? David nám prozradil, jak se takový vesmírný hardware/software dělá a jaká má spefika, oproti klasickému vývoji kdekoliv jinde. </description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/166019779-devminutes-17-david-pavlik.mp3" length="47112777"/>
       <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png?e76cf77"/>
     </item>
