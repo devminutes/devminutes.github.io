@@ -1,0 +1,734 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:49720730/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:49720730/sounds.rss?before=117006007" rel="next" type="application/rss+xml"/>
+        <title>devminutes</title>
+        <link>http://devminutes.cz</link>
+        <pubDate>Wed, 14 Feb 2018 08:28:24 +0000</pubDate>
+        <lastBuildDate>Wed, 14 Feb 2018 08:28:24 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>cs</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Rozhodli jsme se, že by jsme chtěli zkusit natočit podcast a jelikož povídat o tom co by kdyby, umí každý, tak jsme se do toho vrhli po hlavě.
+
+Náš cíl je pravidelně přinášet nové díly a vždy se zajímavým hostem. Pokud máte zajímavý tip na hosta nebo téma, pak se nám neváhejte ozvat ;)</description>
+        <itunes:subtitle>Rozhodli jsme se, že by jsme chtěli zkusit natoči…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>devminutes</itunes:name>
+          <itunes:email>devminutes@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>devminutes</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png</url>
+          <title>devminutes</title>
+          <link>http://devminutes.cz</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/399398817</guid>
+      <title>#33 Jan Lopusek a Startup Studio</title>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/33-jan-lopusek</link>
+      <itunes:duration>01:04:01</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Naše pozvání přijal Jan Lopušek. Jan se v TopMonks stará o startupy a buduje TopMonks Startup Studio. Nás zajímalo, jak to funguje. 
+Téma tohoto dílu se proto točilo okolo fungování Startup studia a obecně startupech v česku. Jaké jsou dnes možnosti a jak ten svět vlastně funguje. 
+Dozvěděli jsme se, co musíte udělat, když máte zatím jen nápad a chcete postavit. 
+
+K závěru jsme i lehce naťukli horké téma kryptoměn, zejména oblast ICO. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti productboard.</itunes:summary>
+      <itunes:subtitle>Naše pozvání přijal Jan Lopušek. Jan se v TopMonk…</itunes:subtitle>
+      <description>Naše pozvání přijal Jan Lopušek. Jan se v TopMonks stará o startupy a buduje TopMonks Startup Studio. Nás zajímalo, jak to funguje. 
+Téma tohoto dílu se proto točilo okolo fungování Startup studia a obecně startupech v česku. Jaké jsou dnes možnosti a jak ten svět vlastně funguje. 
+Dozvěděli jsme se, co musíte udělat, když máte zatím jen nápad a chcete postavit. 
+
+K závěru jsme i lehce naťukli horké téma kryptoměn, zejména oblast ICO. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti productboard.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/399398817-devminutes-33-jan-lopusek.mp3" length="92201714"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000302041779-u4jdlu-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/331331807</guid>
+      <title>#32 Pavel Hübner o BigClown</title>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/32-bigclown</link>
+      <itunes:duration>01:02:24</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Tentokrát jsme vyrazili mimo Prahu do Jablonce a zavítali jsme do startupu BigClown. 
+Povídali jsme si s Pavlem Hubnerem o jeho cestě do světa elektroniky. 
+Jaké máme dnes možnosti s IoT a jak vůbec se do toho dostat, abychom si mohli 
+doma něco postavit a vytvořit chytrou domácnost. 
+
+Pavel se také rozpovídal o cestě startupu BigClown. Jak začínali a jaká je jejich vize. 
+Rozebrali jsme jejich produkty a možnosti použití, naťukli jsme to i technicky. 
+Jak to vypadá zevnitř a jak se to vlastně celé vyvíjí. 
+
+Za poskytnutí prostor pro natáčení děkujeme BigClown Labs.</itunes:summary>
+      <itunes:subtitle>Tentokrát jsme vyrazili mimo Prahu do Jablonce a …</itunes:subtitle>
+      <description>Tentokrát jsme vyrazili mimo Prahu do Jablonce a zavítali jsme do startupu BigClown. 
+Povídali jsme si s Pavlem Hubnerem o jeho cestě do světa elektroniky. 
+Jaké máme dnes možnosti s IoT a jak vůbec se do toho dostat, abychom si mohli 
+doma něco postavit a vytvořit chytrou domácnost. 
+
+Pavel se také rozpovídal o cestě startupu BigClown. Jak začínali a jaká je jejich vize. 
+Rozebrali jsme jejich produkty a možnosti použití, naťukli jsme to i technicky. 
+Jak to vypadá zevnitř a jak se to vlastně celé vyvíjí. 
+
+Za poskytnutí prostor pro natáčení děkujeme BigClown Labs.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/331331807-devminutes-32-bigclown.mp3" length="89850693"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000231768404-ral2zv-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/292220147</guid>
+      <title>#31 Jan Husák o virtuální realitě a o založení Holodeck</title>
+      <pubDate>Wed, 09 Nov 2016 11:48:56 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/31-jan-husak</link>
+      <itunes:duration>01:05:50</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Téma virtuální reality je teď hodně aktuální. Právě proto jsme si pozvali Honzu Husáka. 
+Honza je veliký nadšenec do VR technologií a celý tento díl byl propleten tímto tématem. 
+Honza nám povyprávěl o aktuálních trendech a směrech, jakým VR ujíždí a zároveň 
+jsme nakousli i budoucnost tohoto odvětví. Otevřeli jsme i téma samotného vytváření her 
+jak z pohledu vývoje, tak i z pohledu třeba ovládání. Nejen to. 
+
+Honza nám i povyprávěl i o herně Holodeck, kterou, společně s kamárady, založil. Jaké mají hry, 
+jak to vlastně celé funguje a proč si zkrátka chcete vyzkoušet VR. Je to zažítek, který musíte vyzkoušet! 
+
+Za poskytnutí prostor pro natáčení děkujeme herně Holodeck.</itunes:summary>
+      <itunes:subtitle>Téma virtuální reality je teď hodně aktuální. Prá…</itunes:subtitle>
+      <description>Téma virtuální reality je teď hodně aktuální. Právě proto jsme si pozvali Honzu Husáka. 
+Honza je veliký nadšenec do VR technologií a celý tento díl byl propleten tímto tématem. 
+Honza nám povyprávěl o aktuálních trendech a směrech, jakým VR ujíždí a zároveň 
+jsme nakousli i budoucnost tohoto odvětví. Otevřeli jsme i téma samotného vytváření her 
+jak z pohledu vývoje, tak i z pohledu třeba ovládání. Nejen to. 
+
+Honza nám i povyprávěl i o herně Holodeck, kterou, společně s kamárady, založil. Jaké mají hry, 
+jak to vlastně celé funguje a proč si zkrátka chcete vyzkoušet VR. Je to zažítek, který musíte vyzkoušet! 
+
+Za poskytnutí prostor pro natáčení děkujeme herně Holodeck.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/292220147-devminutes-31-jan-husak.mp3" length="63204961"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000192769050-oc41o6-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283587878</guid>
+      <title>#30 Adam Marčan o Naučmese.cz</title>
+      <pubDate>Mon, 19 Sep 2016 08:59:46 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/30-adam-marcan</link>
+      <itunes:duration>01:02:00</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Je tu další díl. Tentokrát jsme se podívali na zoubek projektu Naučmese.cz, který pokud neznáte tak je hlavně o sdílení znalostí formou kurzů. Většina se točila kolem toho, jak Naučmese.cz vzniklo, jaká je konkurence, jak je populární nebo o další expanzi do zahraničí. Jeho zakladatel Adam Marčan nám příšel o něm popovídat a nechal nás nahlédnout trochu pod pokličku historie, zavedl nás do koutů současnosti a i trochu toho co se připravuje.
+
+Naučmese.cz zároveň umožňuje Adamovi cestovat po světě a pracovat odkudkoliv na světě. Také jsme se dotkli populárního tématu minimalismu.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti ProductBoard.</itunes:summary>
+      <itunes:subtitle>Je tu další díl. Tentokrát jsme se podívali na zo…</itunes:subtitle>
+      <description>Je tu další díl. Tentokrát jsme se podívali na zoubek projektu Naučmese.cz, který pokud neznáte tak je hlavně o sdílení znalostí formou kurzů. Většina se točila kolem toho, jak Naučmese.cz vzniklo, jaká je konkurence, jak je populární nebo o další expanzi do zahraničí. Jeho zakladatel Adam Marčan nám příšel o něm popovídat a nechal nás nahlédnout trochu pod pokličku historie, zavedl nás do koutů současnosti a i trochu toho co se připravuje.
+
+Naučmese.cz zároveň umožňuje Adamovi cestovat po světě a pracovat odkudkoliv na světě. Také jsme se dotkli populárního tématu minimalismu.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti ProductBoard.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283587878-devminutes-30-adam-marcan.mp3" length="59519396"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/267094912</guid>
+      <title>#29 Radek Matěj o minimalismu, cestování a nomádství</title>
+      <pubDate>Thu, 02 Jun 2016 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/29-radek-matej</link>
+      <itunes:duration>01:14:33</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dvacet devítka byla ve znamení minimalismu a cestování. Pozvání přijal Radek Matěj, který nám nasdílel své zkušenosti. Hlavním nosným tématem bylo cestování kombinované s digitálním nomádstvím. Radek nám pověděl něco o své cestě v malé dodávce, kde společně se svou ženou a malou dcerkou procestoval kus Evropy. Řekli jsme si výhody a nevýhody práce na dálku spojené s cestováním. Mimo jiné jsme naťukli i další země, kam se vyplatí zajet a pracovat a jak vlastně vůbec začít a na nomádstvím se připravit. 
+
+Zároveň jsme během cestování často otevíráli téma minimalismu. Jak se zbavit věcí a žít minimalistický život. Během cestování to můžete přinést jisté výhody.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti ProductBoard.</itunes:summary>
+      <itunes:subtitle>Dvacet devítka byla ve znamení minimalismu a cest…</itunes:subtitle>
+      <description>Dvacet devítka byla ve znamení minimalismu a cestování. Pozvání přijal Radek Matěj, který nám nasdílel své zkušenosti. Hlavním nosným tématem bylo cestování kombinované s digitálním nomádstvím. Radek nám pověděl něco o své cestě v malé dodávce, kde společně se svou ženou a malou dcerkou procestoval kus Evropy. Řekli jsme si výhody a nevýhody práce na dálku spojené s cestováním. Mimo jiné jsme naťukli i další země, kam se vyplatí zajet a pracovat a jak vlastně vůbec začít a na nomádstvím se připravit. 
+
+Zároveň jsme během cestování často otevíráli téma minimalismu. Jak se zbavit věcí a žít minimalistický život. Během cestování to můžete přinést jisté výhody.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti ProductBoard.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/267094912-devminutes-29-radek-matej.mp3" length="71574594"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/264694491</guid>
+      <title>#28 Filip Kraucher a Radek Jakl o indie vývoji her a Youtuberech</title>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/28-fiolasoft</link>
+      <itunes:duration>01:01:14</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dvacet-osmička byla ve znamení indie her. Naše pozvání přijali kluci z Fiolasoft - Filip Kraucher a Radek Jakl. Nosným tématem bylo zejména tvorba indie her. Kluci nám prozradili své začátky a jak celý svět okolo indie her vlastně funguje. Jak moc trnitá cesta je, když chcete vydat vlastní hru. Konkrétně jsme se bavili o hře BlackHole, na které kluci a celý jejich tým pracuje. Jak se taková hra distribuuje do světa, jak se designuje, jak se dabuje a mnohem víc.
+
+Lehce jsme naťukli i téma české Youtube scény. Jak čeští Youtubeři fungují a jaké je to dělat vlastní pořad.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti ProductBoard - https://www.productboard.com/</itunes:summary>
+      <itunes:subtitle>Dvacet-osmička byla ve znamení indie her. Naše po…</itunes:subtitle>
+      <description>Dvacet-osmička byla ve znamení indie her. Naše pozvání přijali kluci z Fiolasoft - Filip Kraucher a Radek Jakl. Nosným tématem bylo zejména tvorba indie her. Kluci nám prozradili své začátky a jak celý svět okolo indie her vlastně funguje. Jak moc trnitá cesta je, když chcete vydat vlastní hru. Konkrétně jsme se bavili o hře BlackHole, na které kluci a celý jejich tým pracuje. Jak se taková hra distribuuje do světa, jak se designuje, jak se dabuje a mnohem víc.
+
+Lehce jsme naťukli i téma české Youtube scény. Jak čeští Youtubeři fungují a jaké je to dělat vlastní pořad.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti ProductBoard - https://www.productboard.com/</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/264694491-devminutes-28-fiolasoft.mp3" length="58782534"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/256410857</guid>
+      <title>#27 Jiří Kratochvíl a svobodné firmě</title>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/27-jiri-kratochvil</link>
+      <itunes:duration>01:03:32</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Tentokrát jsme otevřeli téma svobodná firma. Na povídání o tomto tématu přijal pozvání Jiří Kratochvíl ze společnosti TopMonks. Řekl nám, co pro něj znamená svobodná firma a jakým způsobem takovou firmu tvoří. Jak vlastně by taková firma měla fungovat, jaké to má výhody a jaké nevýhody. Jaké je to pracovat jako freelancer vs zaměstnanec ve svobodné firmě.
+
+Mimo jiné jsme i nakousli téma, jak zanést prvky moderně fungujících firem do zaběhnutých korporací. Jestli tam, kupříkladu svoboda v práci, může vůbec fungovat.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti TopMonks.</itunes:summary>
+      <itunes:subtitle>Tentokrát jsme otevřeli téma svobodná firma. Na p…</itunes:subtitle>
+      <description>Tentokrát jsme otevřeli téma svobodná firma. Na povídání o tomto tématu přijal pozvání Jiří Kratochvíl ze společnosti TopMonks. Řekl nám, co pro něj znamená svobodná firma a jakým způsobem takovou firmu tvoří. Jak vlastně by taková firma měla fungovat, jaké to má výhody a jaké nevýhody. Jaké je to pracovat jako freelancer vs zaměstnanec ve svobodné firmě.
+
+Mimo jiné jsme i nakousli téma, jak zanést prvky moderně fungujících firem do zaběhnutých korporací. Jestli tam, kupříkladu svoboda v práci, může vůbec fungovat.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti TopMonks.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/256410857-devminutes-27-jiri-kratochvil.mp3" length="60993539"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000155562479-rt65qe-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/246673649</guid>
+      <title>#26 Tomáš Petříček o F#</title>
+      <pubDate>Fri, 12 Feb 2016 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/26-tomas-petricek</link>
+      <itunes:duration>01:10:41</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Po krátké pauze oprašujeme podcast a hned první pozvání letošní roku přijal Tomáš Petříček. Tomáš je ve světě u i nás známý zejména ve spojení s jazykem F#. A o jazyce F# jsme se věnovali i v tomto díle. Tomáš nám povyprávěl mimo jiné o hlavních výhodách F#, možnostech použití a jak vlastně do tohoto světa dostat.
+
+Nejen o jazyce F# byl tento díl. Tomáš nám povyprávěl o své životní cestě a životě v Cambridge. Dostalo si i na téma PhD studia ve světě a vědu obecně. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti TopMonks - http://www.topmonks.com/.</itunes:summary>
+      <itunes:subtitle>Po krátké pauze oprašujeme podcast a hned první p…</itunes:subtitle>
+      <description>Po krátké pauze oprašujeme podcast a hned první pozvání letošní roku přijal Tomáš Petříček. Tomáš je ve světě u i nás známý zejména ve spojení s jazykem F#. A o jazyce F# jsme se věnovali i v tomto díle. Tomáš nám povyprávěl mimo jiné o hlavních výhodách F#, možnostech použití a jak vlastně do tohoto světa dostat.
+
+Nejen o jazyce F# byl tento díl. Tomáš nám povyprávěl o své životní cestě a životě v Cambridge. Dostalo si i na téma PhD studia ve světě a vědu obecně. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti TopMonks - http://www.topmonks.com/.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/246673649-devminutes-26-tomas-petricek.mp3" length="67865206"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/230308535</guid>
+      <title>#25 Borek Bernard o tom, jak dělat startup z Pardubic</title>
+      <pubDate>Tue, 27 Oct 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/25-borek-bernard</link>
+      <itunes:duration>01:05:29</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dvacátý pátý díl byl o zakládání startupu. Naše pozvání přijal Borek Bernard a prozradil nám, jaké je to budovat startup z Pardubic. Cesta to není lehká. Borek nám ji od začátku popsal, která začíná neúspěšnými projekty a postupně se stáčí na  spěšný VersionPress, který je velmi mocným pluginem do WordPressu. 
+
+Samotnou nosnou kapitolou bylo také shánění investic. Co všechno vlastně takový proces všechno obnáší. Porovnání českéa anglické startup komunity, jak z pohledu hledání inverstic, tak z pohledu samotného fungování. 
+
+Za poskytnutí prostor pro natáčení děkujeme tentokrát Univerzitě Pardubice, konkrétně Fakultě elektrotechniky a informatiky.</itunes:summary>
+      <itunes:subtitle>Dvacátý pátý díl byl o zakládání startupu. Naše p…</itunes:subtitle>
+      <description>Dvacátý pátý díl byl o zakládání startupu. Naše pozvání přijal Borek Bernard a prozradil nám, jaké je to budovat startup z Pardubic. Cesta to není lehká. Borek nám ji od začátku popsal, která začíná neúspěšnými projekty a postupně se stáčí na  spěšný VersionPress, který je velmi mocným pluginem do WordPressu. 
+
+Samotnou nosnou kapitolou bylo také shánění investic. Co všechno vlastně takový proces všechno obnáší. Porovnání českéa anglické startup komunity, jak z pohledu hledání inverstic, tak z pohledu samotného fungování. 
+
+Za poskytnutí prostor pro natáčení děkujeme tentokrát Univerzitě Pardubice, konkrétně Fakultě elektrotechniky a informatiky.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/230308535-devminutes-25-borek-bernard.mp3" length="62872265"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211734864</guid>
+      <title>#24 Michal Augustýn o všem možném i nemožném ze života programátora</title>
+      <pubDate>Wed, 24 Jun 2015 06:08:19 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/24-michal-augustyn</link>
+      <itunes:duration>00:59:58</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>V tomto díle si s námi povídal Michal Augustýn, pro některé též známý jako Augi. 
+Michal je programátor s velmi širokým záběrem a proto jsme tentokrát probrali i více témat. 
+V úvodu nám Michal něco pověděl o konferencích, které se točí okolo security. Řešili jsme 
+problématiku zpracování velkého množství requestů. Augi nám také prozradil jak v Avastu řeší
+continuous integration a continuous delivery. Co to znamená obsloužit 200M uživatelů. 
+
+Dalším z nosných témat byl i Michalův přesun ze světa .Net do světa JVM. Konkrétně skok ze C# na
+Javu a následně skok z Javy na Scalu. Srovnali jsme jednotlivé platformy a hledali jsme výhody, resp.
+nevýhody. Dále se něco málo ještě dozvíte například o databazích, tenise, ...
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</itunes:summary>
+      <itunes:subtitle>V tomto díle si s námi povídal Michal Augustýn, p…</itunes:subtitle>
+      <description>V tomto díle si s námi povídal Michal Augustýn, pro některé též známý jako Augi. 
+Michal je programátor s velmi širokým záběrem a proto jsme tentokrát probrali i více témat. 
+V úvodu nám Michal něco pověděl o konferencích, které se točí okolo security. Řešili jsme 
+problématiku zpracování velkého množství requestů. Augi nám také prozradil jak v Avastu řeší
+continuous integration a continuous delivery. Co to znamená obsloužit 200M uživatelů. 
+
+Dalším z nosných témat byl i Michalův přesun ze světa .Net do světa JVM. Konkrétně skok ze C# na
+Javu a následně skok z Javy na Scalu. Srovnali jsme jednotlivé platformy a hledali jsme výhody, resp.
+nevýhody. Dále se něco málo ještě dozvíte například o databazích, tenise, ...
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/211734864-devminutes-24-michal-augustyn.mp3" length="57569617"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/210864973</guid>
+      <title>#23 Aleš Roubíček a Marian Schubert o funkcionálním programování</title>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/23-funkcionalni-programovani</link>
+      <itunes:duration>01:07:50</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do tohoto dílu přijali naše pozvání Aleš Roubíček a Marian Schubert. Nosným tématem 
+tentokrát bylo funkcionální programování. Kluci nám lehce odtajnili funkcionální svět 
+a řekli nám jak vlastně začít a proč. 
+
+Nemalá čast povídaní se točila i konkrétněji, a to okolo platformy Clojure. Zde jsme 
+si rozebrali možnosti využití a také potřebný tooling. Proč se vyplatí Clojure mrknout 
+a jaké může přinést výhody. Mimo dalšího se třeba dozvíte jak je to se spojením s Javou 
+a jak je to v Clojure světě s frameworky. 
+
+Marian byl našim hostem podruhé a prvně jsme s ním povídali o Best Practices ve třetí episodě.
+ 
+Za poskytnutí prostor pro natáčení tentokrát děkujeme společnosti Vendavo CZ.</itunes:summary>
+      <itunes:subtitle>Do tohoto dílu přijali naše pozvání Aleš Roubíček…</itunes:subtitle>
+      <description>Do tohoto dílu přijali naše pozvání Aleš Roubíček a Marian Schubert. Nosným tématem 
+tentokrát bylo funkcionální programování. Kluci nám lehce odtajnili funkcionální svět 
+a řekli nám jak vlastně začít a proč. 
+
+Nemalá čast povídaní se točila i konkrétněji, a to okolo platformy Clojure. Zde jsme 
+si rozebrali možnosti využití a také potřebný tooling. Proč se vyplatí Clojure mrknout 
+a jaké může přinést výhody. Mimo dalšího se třeba dozvíte jak je to se spojením s Javou 
+a jak je to v Clojure světě s frameworky. 
+
+Marian byl našim hostem podruhé a prvně jsme s ním povídali o Best Practices ve třetí episodě.
+ 
+Za poskytnutí prostor pro natáčení tentokrát děkujeme společnosti Vendavo CZ.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/210864973-devminutes-23-funkcionalni-programovani.mp3" length="65130081"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/207598776</guid>
+      <title>#22 Martin Michálek a Robin Pokorný o frontendistech</title>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/22-frontendisti</link>
+      <itunes:duration>01:08:17</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Po menší přestávce přinášíme 22 díl. Tentokrát jsme vyzpovídali Martina Michálka a Robina Pokorného. 
+Frontend je v dnešní době velice progresivní odvětví, které se rozvíjí každým dnem a není jednoduché 
+sledovat krok. Kluci se nám do toho snažili vnést alespoň trošku světla a vysvětlit, co to znamená být 
+frontedista v dnešní době. Rozdělili frontend svět na několik táborů a postupně si je prošli. 
+
+Martin nám popsal svět, jak on sám říká, očima frontend designera. Naopak Robin to vzal 
+pohledem frontend vývojáře. Dozvíte se jaké kluci používají nástroje a technologie a 
+také nám prozradili, kde dobré frontedisty hledat a jak je nabírat do týmu. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ. </itunes:summary>
+      <itunes:subtitle>Po menší přestávce přinášíme 22 díl. Tentokrát js…</itunes:subtitle>
+      <description>Po menší přestávce přinášíme 22 díl. Tentokrát jsme vyzpovídali Martina Michálka a Robina Pokorného. 
+Frontend je v dnešní době velice progresivní odvětví, které se rozvíjí každým dnem a není jednoduché 
+sledovat krok. Kluci se nám do toho snažili vnést alespoň trošku světla a vysvětlit, co to znamená být 
+frontedista v dnešní době. Rozdělili frontend svět na několik táborů a postupně si je prošli. 
+
+Martin nám popsal svět, jak on sám říká, očima frontend designera. Naopak Robin to vzal 
+pohledem frontend vývojáře. Dozvíte se jaké kluci používají nástroje a technologie a 
+také nám prozradili, kde dobré frontedisty hledat a jak je nabírat do týmu. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ. </description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/207598776-devminutes-22-frontendisti.mp3" length="65558071"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/192098634</guid>
+      <title>#21 Markéta Matějíčková o Khánově škole a vzdělávání</title>
+      <pubDate>Fri, 20 Feb 2015 13:01:39 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/21-marketa-matejickova</link>
+      <itunes:duration>00:45:00</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do dvacátého první dílu přijala naše pozvání Markéta Matějíčková. Markéta nám představila projekt Khánova škola, který je inspirován stejnojmeným projekt z USA. Zjistíte mimo jiné jak to celé funguje, kdo je cílová skupina nebo jak se můžete zapojit do samotného rozvoje. Jedná se o vzdělávací projekt, a proto jsme nakousli i téma vzdělávání obecně a další vzdělávací projekty. 
+
+Máte chuť se zapojit a pomoc dále posunout projekt Khánova škola v České Republice? Rádi bychom Vás pozvali na překladaltelský maraton, který se koná v sobotu 28. 2. 2015 na půdě Matematicko-fyzikální fakulty UK. Více informací najdete přímo na stránkách akce. </itunes:summary>
+      <itunes:subtitle>Do dvacátého první dílu přijala naše pozvání Mark…</itunes:subtitle>
+      <description>Do dvacátého první dílu přijala naše pozvání Markéta Matějíčková. Markéta nám představila projekt Khánova škola, který je inspirován stejnojmeným projekt z USA. Zjistíte mimo jiné jak to celé funguje, kdo je cílová skupina nebo jak se můžete zapojit do samotného rozvoje. Jedná se o vzdělávací projekt, a proto jsme nakousli i téma vzdělávání obecně a další vzdělávací projekty. 
+
+Máte chuť se zapojit a pomoc dále posunout projekt Khánova škola v České Republice? Rádi bychom Vás pozvali na překladaltelský maraton, který se koná v sobotu 28. 2. 2015 na půdě Matematicko-fyzikální fakulty UK. Více informací najdete přímo na stránkách akce. </description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/192098634-devminutes-21-marketa-matejickova.mp3" length="32348582"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/191406123</guid>
+      <title>#20 Jakub Veverka a Martin Damovský o Dockeru</title>
+      <pubDate>Mon, 16 Feb 2015 12:54:26 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/20-docker</link>
+      <itunes:duration>01:07:21</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Tématem dvacítky a zároveň prvního dílu roku 2015 byla technologie Docker. O tomto tématu nám přišli povídat Jakub Veverka a Martin Damovský. Vzali jsme to od samotného úvodu až po pokročilé použití. Kluci nás seznamili s nástroji, workflow, současným stavem a budoucností. Povídali jsme si také o alternativách, které Docker aktuálně má.  
+
+Martin povídal o možnostech využití z pohledu vývojáře a Jakub naopak z pohledu operation a obecně nasazaní Dockeru do continues integration ifrastruktury. </itunes:summary>
+      <itunes:subtitle>Tématem dvacítky a zároveň prvního dílu roku 2015…</itunes:subtitle>
+      <description>Tématem dvacítky a zároveň prvního dílu roku 2015 byla technologie Docker. O tomto tématu nám přišli povídat Jakub Veverka a Martin Damovský. Vzali jsme to od samotného úvodu až po pokročilé použití. Kluci nás seznamili s nástroji, workflow, současným stavem a budoucností. Povídali jsme si také o alternativách, které Docker aktuálně má.  
+
+Martin povídal o možnostech využití z pohledu vývojáře a Jakub naopak z pohledu operation a obecně nasazaní Dockeru do continues integration ifrastruktury. </description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/191406123-devminutes-20-docker.mp3" length="48415498"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000106904238-fqbot3-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/177617426</guid>
+      <title>#19 Andrea Kosařová a Jan Pelán o Pracovně</title>
+      <pubDate>Wed, 19 Nov 2014 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/19-pracovna</link>
+      <itunes:duration>00:54:06</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do devaténáctého dílu přijali naše pozvání Jan Pelán a Andrea Kosařová. Jednalo se o historický díl, kde jsme nebyli v přesile. Kdo někdy slyšel o Andree nebo Honzovi, tak jistě bude tušit téma tohoto dílu. Hlavním tématem byla Pracovna - netradiční coworkingové centrum a kavárna. Zjistili jsme, co to znamená si otevřít takové centrum a jak vůbec funguje. Dozvíte se také, mimo jiné, jak se stát členem a jaké výhody vám to přinese.
+
+Přes Pracovnu jsme se dostali k Pracovně v parku! Honza a Andrea nám prozrodili, co všechno vlastně obnáší si pracoviště v parku &quot;otevřít&quot; a jak si takovou pracovnu můžete zařídit i kdekoliv jinde.
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme Pracovně.</itunes:summary>
+      <itunes:subtitle>Do devaténáctého dílu přijali naše pozvání Jan Pe…</itunes:subtitle>
+      <description>Do devaténáctého dílu přijali naše pozvání Jan Pelán a Andrea Kosařová. Jednalo se o historický díl, kde jsme nebyli v přesile. Kdo někdy slyšel o Andree nebo Honzovi, tak jistě bude tušit téma tohoto dílu. Hlavním tématem byla Pracovna - netradiční coworkingové centrum a kavárna. Zjistili jsme, co to znamená si otevřít takové centrum a jak vůbec funguje. Dozvíte se také, mimo jiné, jak se stát členem a jaké výhody vám to přinese.
+
+Přes Pracovnu jsme se dostali k Pracovně v parku! Honza a Andrea nám prozrodili, co všechno vlastně obnáší si pracoviště v parku &quot;otevřít&quot; a jak si takovou pracovnu můžete zařídit i kdekoliv jinde.
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme Pracovně.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/177617426-devminutes-19-pracovna.mp3" length="38898420"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/167215566</guid>
+      <title>#18 Pavel Kacerle o VFX ve filmu a práci pro filmová studia</title>
+      <pubDate>Thu, 11 Sep 2014 08:37:36 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/18-pavel-kacerle</link>
+      <itunes:duration>00:57:32</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Osmnáctka byla lehce netradiční. Pozvání přijal Pavel Kacerle a uvedl nás do světa práce na hollywoodských filmech. Pavel se zabývá tvorbou speciálních efektů a podílel se i na tvorbě velkých hollywoodských trháků jakými jsou například Iron Man 3 nebo Thor: Temný svět. Podívali jsme se na jeho běžný pracovní den a rozebrali jsme nástroje, které filmaři, pro tvorbu efektů používají. Jak vypadá spolupráce na úrovni týmu a studií a obecně celý proces, který vede k úspěšnému dokončení filmové scény, kterou pak vidíme v kině.
+
+Část epizody se věnuje i samotné cestě, která Pavla přivedla do světa filmu. Pokud vás práce u filmu láká a rádi byste toto odvětví také zkusili, pak určitě oceníte i část, kde Pavel rozebírá průběh přijímacích pohovorů a obecně lehce nakousne pozadí této zajímavé branže.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</itunes:summary>
+      <itunes:subtitle>Osmnáctka byla lehce netradiční. Pozvání přijal P…</itunes:subtitle>
+      <description>Osmnáctka byla lehce netradiční. Pozvání přijal Pavel Kacerle a uvedl nás do světa práce na hollywoodských filmech. Pavel se zabývá tvorbou speciálních efektů a podílel se i na tvorbě velkých hollywoodských trháků jakými jsou například Iron Man 3 nebo Thor: Temný svět. Podívali jsme se na jeho běžný pracovní den a rozebrali jsme nástroje, které filmaři, pro tvorbu efektů používají. Jak vypadá spolupráce na úrovni týmu a studií a obecně celý proces, který vede k úspěšnému dokončení filmové scény, kterou pak vidíme v kině.
+
+Část epizody se věnuje i samotné cestě, která Pavla přivedla do světa filmu. Pokud vás práce u filmu láká a rádi byste toto odvětví také zkusili, pak určitě oceníte i část, kde Pavel rozebírá průběh přijímacích pohovorů a obecně lehce nakousne pozadí této zajímavé branže.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/167215566-devminutes-18-pavel-kacerle.mp3" length="41362975"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/166019779</guid>
+      <title>#17 David Pavlík o práci v Netflixu, SpaceX a dalších</title>
+      <pubDate>Wed, 03 Sep 2014 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/17-david-pavlik</link>
+      <itunes:duration>01:05:31</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Po krátké letní přestávce přinášíme 17. epizodu. David Pavlik má za sebou velice zajímavou životní cestu, o které si s námi povidal. Přes půsovení ve firmě Microsoft, Amazon a Netflix jsme se dostali až k firmě SpaceX. Podívali jsme se na rozdíly, které mezi jednotlivými společnostmi panují. Jaké výhody a nevýhody přináší práce pro velké známe firmy. Jak se vnitřně organizují, kooperace týmů, porovnali jsme firemní kultury a zjištovali jsme, jak je možné se tam dostat. 
+
+Dalším tématem byla firma SpaceX, která posílá &quot;rakety&quot; do vesmíru. Jak funguje firma, která dodává pro NASA a jejiž &quot;release&quot; by měl být bez chybný? David nám prozradil, jak se takový vesmírný hardware/software dělá a jaká má spefika, oproti klasickému vývoji kdekoliv jinde. </itunes:summary>
+      <itunes:subtitle>Po krátké letní přestávce přinášíme 17. epizodu. …</itunes:subtitle>
+      <description>Po krátké letní přestávce přinášíme 17. epizodu. David Pavlik má za sebou velice zajímavou životní cestu, o které si s námi povidal. Přes půsovení ve firmě Microsoft, Amazon a Netflix jsme se dostali až k firmě SpaceX. Podívali jsme se na rozdíly, které mezi jednotlivými společnostmi panují. Jaké výhody a nevýhody přináší práce pro velké známe firmy. Jak se vnitřně organizují, kooperace týmů, porovnali jsme firemní kultury a zjištovali jsme, jak je možné se tam dostat. 
+
+Dalším tématem byla firma SpaceX, která posílá &quot;rakety&quot; do vesmíru. Jak funguje firma, která dodává pro NASA a jejiž &quot;release&quot; by měl být bez chybný? David nám prozradil, jak se takový vesmírný hardware/software dělá a jaká má spefika, oproti klasickému vývoji kdekoliv jinde. </description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/166019779-devminutes-17-david-pavlik.mp3" length="47112777"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/154738021</guid>
+      <title>#16 Marcel Hlopko o virtuálním stroji a optimalizaci kódu</title>
+      <pubDate>Tue, 17 Jun 2014 09:40:41 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/16-marcel-hlopko</link>
+      <itunes:duration>00:56:02</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Marcel Hlopko o virtuálním stroji a optimalizaci kódu
+Naším dalším hostem se stal Marcel Hlopko, který působí jako doktorand na Fakultě Informačních technologiíí ČVUT, kde se zabývá jazykovou interoperabilitou. To nás zavedlo do tajů Java Virtual Machine, jak funguje heap, garbage collector nebo k optimalizaci kódu. Marcel nám mimo jiné představil i práci, na které aktuálně pracuje v rámci PhD studia - virtuální stroj. 
+
+Jak už to tak bývá - i tentokrát jsem se nevěnovali pouze dev tématům. Marcel velmi rád jezdí na kajaku. Nás to velmi zaujalo a proto jsme Marcela vyzpovídali a zjistili, jak a kde můžeme začít svou první jízdu nebo kde hledat nejlepší řeky pro kajak.
+
+Za prostory děkujeme společnosti Vendavo CZ (Praha).</itunes:summary>
+      <itunes:subtitle>Marcel Hlopko o virtuálním stroji a optimalizaci …</itunes:subtitle>
+      <description>Marcel Hlopko o virtuálním stroji a optimalizaci kódu
+Naším dalším hostem se stal Marcel Hlopko, který působí jako doktorand na Fakultě Informačních technologiíí ČVUT, kde se zabývá jazykovou interoperabilitou. To nás zavedlo do tajů Java Virtual Machine, jak funguje heap, garbage collector nebo k optimalizaci kódu. Marcel nám mimo jiné představil i práci, na které aktuálně pracuje v rámci PhD studia - virtuální stroj. 
+
+Jak už to tak bývá - i tentokrát jsem se nevěnovali pouze dev tématům. Marcel velmi rád jezdí na kajaku. Nás to velmi zaujalo a proto jsme Marcela vyzpovídali a zjistili, jak a kde můžeme začít svou první jízdu nebo kde hledat nejlepší řeky pro kajak.
+
+Za prostory děkujeme společnosti Vendavo CZ (Praha).</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/154738021-devminutes-16-marcel-hlopko.mp3" length="40288131"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/151649218</guid>
+      <title>#15 Vojta Jína o práci v Google a AngularJS</title>
+      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/15-vojta-jina</link>
+      <itunes:duration>00:56:10</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Patnactým hostem se stal Vojta Jína. Vojta se rozpovídal o svých zkušenost s prací v zahraničí a zejména nastínil svou cestu do Google. Prozradil nám jakým způsobem se tam dostal on a jak se tam může zkusit dostat kdokoliv. Jak se připravit na příjimací pohovory nebo jak fungují jednotlivá přijímací kola. 
+
+Vojta v Googlu, společně s dalšími, pracuje na Anglular.js. Proto jsme tomuto frameworku věnovali velkou část tohoto dílu. Dozvíte se proč je dobré Angular používat, jak si stojí proti konkurenci nebo jeho silné stránky. Mimo samotného Angularu jsme si povídali i o samotném vývoji Angularu - dozvíte se například jak funguje takový tým v Google.. 
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme Vendavo CZ.</itunes:summary>
+      <itunes:subtitle>Patnactým hostem se stal Vojta Jína. Vojta se roz…</itunes:subtitle>
+      <description>Patnactým hostem se stal Vojta Jína. Vojta se rozpovídal o svých zkušenost s prací v zahraničí a zejména nastínil svou cestu do Google. Prozradil nám jakým způsobem se tam dostal on a jak se tam může zkusit dostat kdokoliv. Jak se připravit na příjimací pohovory nebo jak fungují jednotlivá přijímací kola. 
+
+Vojta v Googlu, společně s dalšími, pracuje na Anglular.js. Proto jsme tomuto frameworku věnovali velkou část tohoto dílu. Dozvíte se proč je dobré Angular používat, jak si stojí proti konkurenci nebo jeho silné stránky. Mimo samotného Angularu jsme si povídali i o samotném vývoji Angularu - dozvíte se například jak funguje takový tým v Google.. 
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme Vendavo CZ.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/151649218-devminutes-15-vojta-jina.mp3" length="40384202"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/149120783</guid>
+      <title>#14 Michal Špaček o PHP a bezpečnosti na internetu</title>
+      <pubDate>Mon, 12 May 2014 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/14-michal-spacek</link>
+      <itunes:duration>01:14:36</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do čtrnáctého dílu si s námi přišel popovídat Michal Špaček. Prvním tématem byla platforma PHP. Michal nám řekl jaký je aktuální stav ve světě PHP a jak žije kominuta. Mimo jiné jsme rozebírali možnosti PHP ve vetších aplikacích nebo přínosy webových Frameworků. Po PHP přišel na řadu jazyk HACK, který nedávno představila firma Facebook jako náhradu právě za PHP. Michal nás zasvětil do toho, jaké jsou hlavní rozdíly a jak vlastně celý životní cyklus okolo HACK funguje a jestli má ten jazyk vůbec smysl používat. 
+
+V druhé části jsme nakousli téma webové bezpečnosti. Nejčastější typy útoků a jak se proti nim můžeme bránit. Nějaké základní best practice okolo tvorby a uchovávání hesel. Podívali jsme se i na problém heartbleed, který byl nedávno odhalen. 
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme Node5.</itunes:summary>
+      <itunes:subtitle>Do čtrnáctého dílu si s námi přišel popovídat Mic…</itunes:subtitle>
+      <description>Do čtrnáctého dílu si s námi přišel popovídat Michal Špaček. Prvním tématem byla platforma PHP. Michal nám řekl jaký je aktuální stav ve světě PHP a jak žije kominuta. Mimo jiné jsme rozebírali možnosti PHP ve vetších aplikacích nebo přínosy webových Frameworků. Po PHP přišel na řadu jazyk HACK, který nedávno představila firma Facebook jako náhradu právě za PHP. Michal nás zasvětil do toho, jaké jsou hlavní rozdíly a jak vlastně celý životní cyklus okolo HACK funguje a jestli má ten jazyk vůbec smysl používat. 
+
+V druhé části jsme nakousli téma webové bezpečnosti. Nejčastější typy útoků a jak se proti nim můžeme bránit. Nějaké základní best practice okolo tvorby a uchovávání hesel. Podívali jsme se i na problém heartbleed, který byl nedávno odhalen. 
+
+Za poskytnutí prostor pro natáčení tentokrát děkujeme Node5.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/149120783-devminutes-14-michal-spacek.mp3" length="53640443"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/144639820</guid>
+      <title>#13 Štěpán Bechynský o 3D tisku, mikrokontrolérech a vaření</title>
+      <pubDate>Mon, 14 Apr 2014 12:35:21 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/13-stepan-bechynsky</link>
+      <itunes:duration>01:01:06</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do třináctého dílu si s námi přišel popovídat Štěpán Bechynský. Hlavním tématem byli tentokrát 3D tiskárny. Štěpán nás zasvětil do světa 3D tisku a prozradil nám, jak začít a že prostě 3D tiskárnu musíte mít. Mimo jiné nám popsal kompletní &quot;life-cycle&quot;, od návrhu modelu, až po samotný 3D výtisk. Prozradil nám mnoho zajímavostí, fíglu, tipů a mnoho dalšího. 
+
+Od 3D tisku jsme dostali i k jednočípům a obecně programování hardwarových hraček. Jaké jsou dnes možnosti a jaké technologie a prostředky se dají jednoduše použít, abychom si mohli například vytvořit lampu, která bude ovládáná přes Twitter, podobně jako to udělala parta v seriálů The Big Bang Theory. Nakonec jsme skončili u jídla a obecně o vaření. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</itunes:summary>
+      <itunes:subtitle>Do třináctého dílu si s námi přišel popovídat Ště…</itunes:subtitle>
+      <description>Do třináctého dílu si s námi přišel popovídat Štěpán Bechynský. Hlavním tématem byli tentokrát 3D tiskárny. Štěpán nás zasvětil do světa 3D tisku a prozradil nám, jak začít a že prostě 3D tiskárnu musíte mít. Mimo jiné nám popsal kompletní &quot;life-cycle&quot;, od návrhu modelu, až po samotný 3D výtisk. Prozradil nám mnoho zajímavostí, fíglu, tipů a mnoho dalšího. 
+
+Od 3D tisku jsme dostali i k jednočípům a obecně programování hardwarových hraček. Jaké jsou dnes možnosti a jaké technologie a prostředky se dají jednoduše použít, abychom si mohli například vytvořit lampu, která bude ovládáná přes Twitter, podobně jako to udělala parta v seriálů The Big Bang Theory. Nakonec jsme skončili u jídla a obecně o vaření. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/144639820-devminutes-13-stepan-bechynsky.mp3" length="43936528"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/143666129</guid>
+      <title>#12 Tomáš Slavíček o vývoji pro Windows Phone</title>
+      <pubDate>Tue, 08 Apr 2014 09:02:42 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/12-tomas-slavicek</link>
+      <itunes:duration>00:47:58</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dvanáctý díl byl pojat v duchu vývoje mobilních aplikací. Naše pozvání přijal Tomáš Slovíček, se kterým jsme si povídali zejména o aktuální situaci na poli vývoje na platformě Windows Phone. Rozebrali jsme si dostupné prostředky, které nám umožní vývoj a také jsme lehce zabrousili do vývoje her. Mimo jiné jsme naťukli i téma, jak psát aplikace pro více mobilních platforem v jazyce C#. 
+
+Tomáš nám také povyprávěl, jaká byla konference Mobile World Congress a co zajímavého tam bylo představeno. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ. </itunes:summary>
+      <itunes:subtitle>Dvanáctý díl byl pojat v duchu vývoje mobilních a…</itunes:subtitle>
+      <description>Dvanáctý díl byl pojat v duchu vývoje mobilních aplikací. Naše pozvání přijal Tomáš Slovíček, se kterým jsme si povídali zejména o aktuální situaci na poli vývoje na platformě Windows Phone. Rozebrali jsme si dostupné prostředky, které nám umožní vývoj a také jsme lehce zabrousili do vývoje her. Mimo jiné jsme naťukli i téma, jak psát aplikace pro více mobilních platforem v jazyce C#. 
+
+Tomáš nám také povyprávěl, jaká byla konference Mobile World Congress a co zajímavého tam bylo představeno. 
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ. </description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/143666129-devminutes-12-tomas-slavicek.mp3" length="34485774"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/136455211</guid>
+      <title>#11 David Vávra o vývoji pro Google Glass</title>
+      <pubDate>Mon, 24 Feb 2014 08:50:15 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/11-david-vavra</link>
+      <itunes:duration>01:00:08</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do jedenáctého dílu přijal pozvání David Vávra. David pracuje pracuje jako Android vývojář a v poslední době se mimo jiné věnuje vývoji aplikací pro Google Glass. Brýle se stali hlavním tématem tohoto dílu. S Davidem jsme si povídali zejména o možnostech z pohledu vývojáře. Jak začít, jaké zvolit knihovny a porovnání s vývojem pro klasický Android telefon. V neposlední řadě jsme nakousli i téma bezpečnosti, motivace a další budoucnosti.
+
+Také jsme lehce otevřeli téma stáže v Google. Například se dozvíte jak probíhají výběrová řízení a co taková staž obnáší.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</itunes:summary>
+      <itunes:subtitle>Do jedenáctého dílu přijal pozvání David Vávra. D…</itunes:subtitle>
+      <description>Do jedenáctého dílu přijal pozvání David Vávra. David pracuje pracuje jako Android vývojář a v poslední době se mimo jiné věnuje vývoji aplikací pro Google Glass. Brýle se stali hlavním tématem tohoto dílu. S Davidem jsme si povídali zejména o možnostech z pohledu vývojáře. Jak začít, jaké zvolit knihovny a porovnání s vývojem pro klasický Android telefon. V neposlední řadě jsme nakousli i téma bezpečnosti, motivace a další budoucnosti.
+
+Také jsme lehce otevřeli téma stáže v Google. Například se dozvíte jak probíhají výběrová řízení a co taková staž obnáší.
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti Vendavo CZ.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/136455211-devminutes-11-david-vavra.mp3" length="43239075"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/130598598</guid>
+      <title>#10 Michal Bachman o grafových databázích, neo4j, studiu a životě v zahraničí</title>
+      <pubDate>Tue, 21 Jan 2014 07:59:33 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/10-michal-bachman</link>
+      <itunes:duration>01:03:35</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do desátého dílu přijal naše pozvání Michal Bachman, který je přeborníkem v oblasti grafových databází. A právě grafové databáze byli hlavním tématem tohoto dílu. Michal nám popsal možnosti a krásu použití databází. Také použití a kde všude grafové databáze najdou své uplatnění. Byla nám také odtajněna i technickou část a Michal povídal o spousty možnostech, jak se na vývoji grafových databází podílet.  
+
+Dále jsme si povídali o studiu a životě v zahraničí. Jaké tam jsou školy a jak je té s náročností. Jestli to má vůbec smysl a na spousty dalších otázek nám Michal prozradil odpověď. 
+
+Pakliže vás povídaní Michala Bachmana zaujalo a rádi byste nim navázali spolupráci, pak se neváhejte ozvat na jeho email, který naleznete na http://devminutes.cz</itunes:summary>
+      <itunes:subtitle>Do desátého dílu přijal naše pozvání Michal Bachm…</itunes:subtitle>
+      <description>Do desátého dílu přijal naše pozvání Michal Bachman, který je přeborníkem v oblasti grafových databází. A právě grafové databáze byli hlavním tématem tohoto dílu. Michal nám popsal možnosti a krásu použití databází. Také použití a kde všude grafové databáze najdou své uplatnění. Byla nám také odtajněna i technickou část a Michal povídal o spousty možnostech, jak se na vývoji grafových databází podílet.  
+
+Dále jsme si povídali o studiu a životě v zahraničí. Jaké tam jsou školy a jak je té s náročností. Jestli to má vůbec smysl a na spousty dalších otázek nám Michal prozradil odpověď. 
+
+Pakliže vás povídaní Michala Bachmana zaujalo a rádi byste nim navázali spolupráci, pak se neváhejte ozvat na jeho email, který naleznete na http://devminutes.cz</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/130598598-devminutes-10-michal-bachman.mp3" length="45712209"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/128134162</guid>
+      <title>#9 Antonín Hildebrand o vývoji pro Mac, Digitálním nomádství a BitCoinech</title>
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/9-antonin-hildebrand</link>
+      <itunes:duration>01:01:23</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Posledním hostem v roce 2013 byl Antonín Hildebrand. S Antonínem jsme nakousli téma vývoje pro Mac. Jaké je to tvořit aplikace, která si hodně sahá na jádro systému a jak vlastně trh aplikací v AppStoru dnes funguje. Druhým nosným tématem bylo digitální nomádství. Antonín nám vysvětlil, jak to vlastně celé funguje a kdy se vyplatí stát se digitálním nomádem. 
+
+Hlavním tématem tohoto podcastu byla ale digitální měna BitCoin. Rozebrali jsme její architekturu, myšlenku, smysl a mnoho dalšího.</itunes:summary>
+      <itunes:subtitle>Posledním hostem v roce 2013 byl Antonín Hildebra…</itunes:subtitle>
+      <description>Posledním hostem v roce 2013 byl Antonín Hildebrand. S Antonínem jsme nakousli téma vývoje pro Mac. Jaké je to tvořit aplikace, která si hodně sahá na jádro systému a jak vlastně trh aplikací v AppStoru dnes funguje. Druhým nosným tématem bylo digitální nomádství. Antonín nám vysvětlil, jak to vlastně celé funguje a kdy se vyplatí stát se digitálním nomádem. 
+
+Hlavním tématem tohoto podcastu byla ale digitální měna BitCoin. Rozebrali jsme její architekturu, myšlenku, smysl a mnoho dalšího.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/128134162-devminutes-9-antonin-hildebrand.mp3" length="44138664"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/125248716</guid>
+      <title>#8 Petr Šimeček o BigData a Cloudových službách</title>
+      <pubDate>Tue, 17 Dec 2013 11:55:42 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/8-petr-simecek</link>
+      <itunes:duration>01:11:00</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do osmého dílu přijal naše pozvání Petr Šimeček ze společnosti Keboola. S Petrem jsme rozebrali co vlastně dělá Keebola a jakou má spojistost s GoodData. Povídali jsme si o tom, co vše lze získat z velkého množství dat a jak lze tyto data zabezpečit. Podívali jsme se i na různé cloudové služby a jejich použití v praxi.</itunes:summary>
+      <itunes:subtitle>Do osmého dílu přijal naše pozvání Petr Šimeček z…</itunes:subtitle>
+      <description>Do osmého dílu přijal naše pozvání Petr Šimeček ze společnosti Keboola. S Petrem jsme rozebrali co vlastně dělá Keebola a jakou má spojistost s GoodData. Povídali jsme si o tom, co vše lze získat z velkého množství dat a jak lze tyto data zabezpečit. Podívali jsme se i na různé cloudové služby a jejich použití v praxi.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/125248716-devminutes-8-petr-simecek.mp3" length="51045333"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/123016269</guid>
+      <title>#7 Speciál o konferencích a DevFestu</title>
+      <pubDate>Wed, 27 Nov 2013 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/7-special-konference</link>
+      <itunes:duration>01:10:32</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Sedmý díl jsme pojali trošku neobvykle. V roce 2013 se odehrálo mnoho IT konrencí a různých setkáních. Na mnoha z nich jsme byli a v tomto díle jsme se pokusili některé vybrané rozebrat a blíže přiblížit. Můžete tak získat zajímavé tipy, na co se vyplatí chodit.
+
+V závěru jsme malinko více rozebrali konferenci DevFest 2013 - a to z pohledu návštěvníka a také z pohledu organizátora.</itunes:summary>
+      <itunes:subtitle>Sedmý díl jsme pojali trošku neobvykle. V roce 20…</itunes:subtitle>
+      <description>Sedmý díl jsme pojali trošku neobvykle. V roce 2013 se odehrálo mnoho IT konrencí a různých setkáních. Na mnoha z nich jsme byli a v tomto díle jsme se pokusili některé vybrané rozebrat a blíže přiblížit. Můžete tak získat zajímavé tipy, na co se vyplatí chodit.
+
+V závěru jsme malinko více rozebrali konferenci DevFest 2013 - a to z pohledu návštěvníka a také z pohledu organizátora.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/123016269-devminutes-7-special-konference.mp3" length="50714737"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/122288474</guid>
+      <title>#6 Petr Dvořák o bezpečnosti mobilních aplikací</title>
+      <pubDate>Tue, 26 Nov 2013 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/6-petr-dvorak</link>
+      <itunes:duration>01:04:11</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Do šestého dílu přijal pozvání Petr Dvořák ze společnosti Inmite. Společně jsme nakousli téma vývoje mobilních aplikací z pohledu všech aktuálních platforem a jejich zabezpečení.  Zabrousili jsme i do bankovnictví, resp. vývoje aplikací pro bankovní sektor a také do projektu QR-Platby. 
+Petr nám také představil nový hardware Air Bond, na kterém aktuálně společnost Inmite pracuje.</itunes:summary>
+      <itunes:subtitle>Do šestého dílu přijal pozvání Petr Dvořák ze spo…</itunes:subtitle>
+      <description>Do šestého dílu přijal pozvání Petr Dvořák ze společnosti Inmite. Společně jsme nakousli téma vývoje mobilních aplikací z pohledu všech aktuálních platforem a jejich zabezpečení.  Zabrousili jsme i do bankovnictví, resp. vývoje aplikací pro bankovní sektor a také do projektu QR-Platby. 
+Petr nám také představil nový hardware Air Bond, na kterém aktuálně společnost Inmite pracuje.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/122288474-devminutes-6-petr-dvorak.mp3" length="46150235"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/117597424</guid>
+      <title>#5 Karel Holub o běhání</title>
+      <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/5-karel-holub</link>
+      <itunes:duration>01:13:56</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Nejen prací živ je programátor, ale je potřeba se i hýbat. Jelikož nejméně náročným sportem je běh, proto je první volbou spousty lidí. Což byl důvod, že jsme si jako hosta pozvali právě Karla, který běhá a běhá hodně.
+
+Povídali jsme si o tom, jak začal, co ho k tomu vedlo nebo jak trénuje. Rozebrali jsme i to, jak s běháním začít, když jste vyloženě nesportovní typ. Jaké existují druhy tréningu nebo jaká je správná technika běhu. Naťukli jsme i vegetariánskou stravu.</itunes:summary>
+      <itunes:subtitle>Nejen prací živ je programátor, ale je potřeba se…</itunes:subtitle>
+      <description>Nejen prací živ je programátor, ale je potřeba se i hýbat. Jelikož nejméně náročným sportem je běh, proto je první volbou spousty lidí. Což byl důvod, že jsme si jako hosta pozvali právě Karla, který běhá a běhá hodně.
+
+Povídali jsme si o tom, jak začal, co ho k tomu vedlo nebo jak trénuje. Rozebrali jsme i to, jak s běháním začít, když jste vyloženě nesportovní typ. Jaké existují druhy tréningu nebo jaká je správná technika běhu. Naťukli jsme i vegetariánskou stravu.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117597424-devminutes-5-karel-holub.mp3" length="53153356"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/117044371</guid>
+      <title>#4 Daniel Steigerwald o práci v USA, JavaScriptu a Closure Tools</title>
+      <pubDate>Fri, 25 Oct 2013 18:47:26 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/4-daniel-steigerwald</link>
+      <itunes:duration>01:13:08</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>V pořadí čtvrtým hostem je Daniel Steigerwald. Dan je známý zejména ve světě frontend Javascriptu. Rozebrali jsme současnou situaci Javascriptu a mimo jiného jsme si povídali například o Google Clojure Tools, Gruntu, Dartu, Typescriptu a dalších.
+
+Povídali jsme si také o Danově nedávné cestě do USA. Jaké to tam je, jak je těžké získat práci a jak je to vůbec v dnešní době s prací na dálku pro Americkou firmu.</itunes:summary>
+      <itunes:subtitle>V pořadí čtvrtým hostem je Daniel Steigerwald. Da…</itunes:subtitle>
+      <description>V pořadí čtvrtým hostem je Daniel Steigerwald. Dan je známý zejména ve světě frontend Javascriptu. Rozebrali jsme současnou situaci Javascriptu a mimo jiného jsme si povídali například o Google Clojure Tools, Gruntu, Dartu, Typescriptu a dalších.
+
+Povídali jsme si také o Danově nedávné cestě do USA. Jaké to tam je, jak je těžké získat práci a jak je to vůbec v dnešní době s prací na dálku pro Americkou firmu.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117044371-devminutes-4-daniel-steigerwald.mp3" length="52579656"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/117042591</guid>
+      <title>#3 Marian Schubert o best practices</title>
+      <pubDate>Fri, 25 Oct 2013 18:35:02 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/3-marian-schubert</link>
+      <itunes:duration>01:08:08</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Třetím hostem podcastu je Marian Schubert. Mariana můžete znát mimo jiné například jako jednoho z hlavních organizátorů Global Day of CodeRetreat nebo jako protagonistu best practices při vývoji software. Právě best practices jsou hlavním tématem třetího dílu.
+
+Zklouzli jsme k párovému programování, test driven development, coding dojo a k dalším technikám, které bez pochyby patří do kategorie extremního programování.</itunes:summary>
+      <itunes:subtitle>Třetím hostem podcastu je Marian Schubert. Marian…</itunes:subtitle>
+      <description>Třetím hostem podcastu je Marian Schubert. Mariana můžete znát mimo jiné například jako jednoho z hlavních organizátorů Global Day of CodeRetreat nebo jako protagonistu best practices při vývoji software. Právě best practices jsou hlavním tématem třetího dílu.
+
+Zklouzli jsme k párovému programování, test driven development, coding dojo a k dalším technikám, které bez pochyby patří do kategorie extremního programování.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117042591-devminutes-3-marian-schubert.mp3" length="102710391"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/117038931</guid>
+      <title>#2 Filip Hráček o Google, Dartu a Glass</title>
+      <pubDate>Fri, 25 Oct 2013 18:09:05 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/2-filip-hracek</link>
+      <itunes:duration>00:48:37</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Hostem druhého dílu byl Filip Hráček, který pracuje ve společnosti Google jako Developer Relations Manager. Filipa můžete znát z GUG.cz akcí, kterých se účastní nebo i pomáhá s organizací.
+
+Filipa jsme vyzpovídali o práci v Google, jak se k tomu dostal a co vlastně přesně každý den dělá. Povídali jsme si i o potenciálu a budoucnosti jazyka Dart nebo o Google Glass.</itunes:summary>
+      <itunes:subtitle>Hostem druhého dílu byl Filip Hráček, který pracu…</itunes:subtitle>
+      <description>Hostem druhého dílu byl Filip Hráček, který pracuje ve společnosti Google jako Developer Relations Manager. Filipa můžete znát z GUG.cz akcí, kterých se účastní nebo i pomáhá s organizací.
+
+Filipa jsme vyzpovídali o práci v Google, jak se k tomu dostal a co vlastně přesně každý den dělá. Povídali jsme si i o potenciálu a budoucnosti jazyka Dart nebo o Google Glass.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117038931-devminutes-2-filip-hracek.mp3" length="70009578"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/117006007</guid>
+      <title>#1 Miroslav Bajtoš a vývoj Node.js</title>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/devminutes/1-miroslav-bajtos</link>
+      <itunes:duration>00:44:24</itunes:duration>
+      <itunes:author>devminutes</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Jako hosta prvního dílu jsme si pozvali Miroslava Bajtoše, který pracuje pro společnost StrongLoop jako programátor C/C++ a JavaScriptu. Můžete ho znát například z Hradeckých a Pardubických NerdDinner nebo jako facilitátora z českých Coderetreatů.
+
+Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.</itunes:summary>
+      <itunes:subtitle>Jako hosta prvního dílu jsme si pozvali Miroslava…</itunes:subtitle>
+      <description>Jako hosta prvního dílu jsme si pozvali Miroslava Bajtoše, který pracuje pro společnost StrongLoop jako programátor C/C++ a JavaScriptu. Můžete ho znát například z Hradeckých a Pardubických NerdDinner nebo jako facilitátora z českých Coderetreatů.
+
+Povídali jsme si o práci pro firmu ze San Francisca. Jak se pracuje na dálku, jaké nástroje používájí ve StrongLoop nebo jak probíhá vývoj a kontribuce do node.js.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/117006007-devminutes-1-miroslav-bajtos.mp3" length="63931758"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000058785997-rdit6v-original.png"/>
+    </item>
+      </channel>
+    </rss>

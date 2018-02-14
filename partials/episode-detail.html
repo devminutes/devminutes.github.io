@@ -1,0 +1,26 @@
+<div>
+  <nav>
+    <ul class="pager">
+      <li class="previous"><a href="../">&larr; Všechny epizody</a></li>
+    </ul>
+  </nav>
+
+
+  <h1>#{{episode.id}} {{episode.name}}</h1>
+  <div ng-bind-html="episode.description" class="description"></div>
+  <div ng-bind-html="episode.soundcloudPlayer"></div>
+
+  (<a href="{{episode.mp3}}">Stáhnout MP3</a>)
+
+  <div class="resources">
+    <div ng-bind-html="episode.resourcesHtml"></div>
+  </div>
+</div>
+
+<a twitter data-lang="en" data-count='horizontal' data-url='{{episode.url}}' data-via='devminutes' data-size="medium" data-text='{{episode.name}}'></a> 
+<div class="fb-like" data-href="http://devminutes.cz/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<br /><br />
+
+<dir-disqus disqus-shortname="devminutes" disqus-identifier="{{episode.id}}" 
+            disqus-url="{{episode.url}}" ready-to-bind="{{contentLoaded}}">
+</dir-disqus>

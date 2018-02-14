@@ -1,0 +1,21 @@
+<div class="episode episode-listing">
+  <h1>
+    <a href="{{newestEpisode.url}}">#{{newestEpisode.id}} {{newestEpisode.name}}</a>
+  </h1>
+  <div ng-bind-html="newestEpisode.description" class="description"></div>
+  <div ng-bind-html="newestEpisode.soundcloudPlayer"></div>
+
+  <br />
+  <a href="{{newestEpisode.url}}" class="download">Detail a vice informaci</a>
+</div>
+
+<div id="archiv">
+	ARCHIV
+</div>
+
+<div class="episode-list">
+  <div class="episode-list-item episode-listing" ng-repeat="episode in episodes | orderBy:orderProp">
+  <h4><a href="{{episode.url}}">#{{episode.id}} {{episode.name}}</a></h4>
+  <p>{{episode.date}} / {{episode.perex}}</p>
+  </div>
+</div>

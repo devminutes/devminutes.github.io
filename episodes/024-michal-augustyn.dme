@@ -1,0 +1,40 @@
+dm-id:          24
+dm-name:        Michal Augustýn o všem možném i nemožném ze života programátora
+dm-date:        23.06.2015
+dm-mp3:         http://feeds.soundcloud.com/stream/211734864-devminutes-24-michal-augustyn.mp3
+dm-soundcloud:  https://soundcloud.com/devminutes/24-michal-augustyn
+
+dm-resources: 
+dm-resource: Michal Augustýn
+Twitter||https://twitter.com/augicz
+LinkedIn||https://cz.linkedin.com/in/michalaugustyn
+Web||http://www.augi.cz/
+
+dm-resource: Akce
+NodeSchool Hradec Králové||http://srazy.info/nodeschool/terminy/
+mDevCamp 2015||http://mdevcamp.cz/
+NerdDinner PHA||http://srazy.info/ndpha/5555
+WebExpo 2015||http://webexpo.cz/praha2015/
+jOpenSpace 2015||http://jopenspace.cz/
+
+dm-resource: Články
+Utter Disregard for Git Commit History||http://zachholman.com/posts/git-commit-history/
+Google Made Its Secret Blueprint Public to Boost Its Cloud||http://www.wired.com/2015/06/google-kubernetes-says-future-cloud-computing/
+Git request-pull||http://git-scm.com/docs/git-request-pull
+
+dm-resource: Video
+Spotify engineering culture (part 1)||https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
+Spotify engineering culture (part 2)||https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/
+
+dm-description: 
+V tomto díle si s námi povídal Michal Augustýn, pro některé též známý jako Augi. 
+Michal je programátor s velmi širokým záběrem a proto jsme tentokrát probrali i více témat. 
+V úvodu nám Michal něco pověděl o konferencích, které se točí okolo security. Řešili jsme 
+problématiku zpracování velkého množství requestů. Augi nám také prozradil jak v Avastu řeší
+continuous integration a continuous delivery. Co to znamená obsloužit 200M uživatelů. 
+
+Dalším z nosných témat byl i Michalův přesun ze světa .Net do světa JVM. Konkrétně skok ze C# na
+Javu a následně skok z Javy na Scalu. Srovnali jsme jednotlivé platformy a hledali jsme výhody, resp.
+nevýhody. Dále se něco málo ještě dozvíte například o databazích, tenise, ...
+
+Za poskytnutí prostor pro natáčení děkujeme společnosti [Vendavo CZ](http://www.vendavo.cz/). 
